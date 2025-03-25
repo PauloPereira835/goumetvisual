@@ -1,0 +1,17 @@
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\bin\Debug\GourmetLinkedTouch.exe.config
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\bin\Debug\GourmetLinkedTouch.exe
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\bin\Debug\GourmetLinkedTouch.pdb
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\bin\Debug\GourmetLinkedTouch.xml
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.frmPrincipal.resources
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.Resources.resources
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.vbproj.GenerateResource.Cache
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.exe
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.xml
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.pdb
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.fdlgAbreMesa.resources
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.frmGrupos.resources
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.fdlgAlteraQtde.resources
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.fdlgComentarioPrincipal.resources
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.fdlgPeloCodigo.resources
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.fdlgMensagens.resources
+C:\Gourmet Linked\Touch\GourmetLinkedTouch\GourmetLinkedTouch\obj\Debug\GourmetLinkedTouch.fdlgCombo.resources

@@ -1,0 +1,76 @@
+[05/01/2017 15:23:29:418] 11608 - EspdCFeSatEnviarDadosVendaException : Problema ao enviar dados venda: Access violation at address 59389042 in module 'bemasat32.dll'. Read of address 00000000
+[10/11/2017 22:51:12:812] 3432 - EspdCFeSatEnviarDadosVendaException : XML de entrada não pode ser vazio
+[10/11/2017 22:51:45:327] 4064 - EspdCFeSatEnviarDadosVendaException : XML de entrada não pode ser vazio
+[10/11/2017 23:03:21:753] 6544 - EspdCFeSatEnviarDadosVendaException : XML de entrada não pode ser vazio
+[10/11/2017 23:07:14:189] 6544 - EspdCFeSatEnviarDadosVendaException : XML de entrada não pode ser vazio
+[05/02/2018 12:24:58:456] 2800 - EspdCFeSatNomeDllVazioException : A DLL: C:\Windows\System32\bemasat.dll não foi encontrada.
+[05/02/2018 12:27:21:120] 2800 - EspdCFeSatNomeDllVazioException : A DLL: C:\Windows\System32\bemasat.dll não foi encontrada.
+[31/03/2018 11:31:04:545] 1944 - EspdCFeSatPrintImprimirException : Não foi possível encontrar o arquivo de logotipo da empresa: c:\Gourmet\LogoSat.bmp
+[31/03/2018 11:31:04:555] 1944 - EspdCFeSatImprimirCFeSatException : Problemas ao imprimir o CFe Sat: Não foi possível encontrar o arquivo de logotipo da empresa: c:\Gourmet\LogoSat.bmp
+[31/03/2018 11:33:03:299] 2052 - EspdCFeSatPrintImprimirException : Não foi possível encontrar o arquivo de logotipo da empresa: c:\Gourmet\LogoSat.bmp
+[31/03/2018 11:33:03:299] 2052 - EspdCFeSatImprimirCFeSatException : Problemas ao imprimir o CFe Sat: Não foi possível encontrar o arquivo de logotipo da empresa: c:\Gourmet\LogoSat.bmp
+[27/11/2018 21:34:02:155] 19152 - EspdCFeSatNomeDllVazioException : A DLL: C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\bemasat.dll não foi encontrada.
+[27/11/2018 23:24:24:322] 7288 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[27/11/2018 23:28:38:220] 9572 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[27/11/2018 23:30:17:985] 18520 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[27/11/2018 23:31:15:066] 9572 - EspdCFeSatNomeDllVazioException : A DLL:  não foi encontrada.
+[27/11/2018 23:32:36:456] 14616 - EspdCFeSatNomeDllVazioException : A DLL:  não foi encontrada.
+[27/11/2018 23:37:24:565] 4200 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[27/11/2018 23:40:24:470] 10584 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[27/11/2018 23:43:05:852] 6436 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[27/11/2018 23:44:19:196] 13500 - EspdCFeSatNomeDllVazioException : A DLL: C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\bemasat.dll não foi encontrada.
+[27/11/2018 23:45:29:250] 14648 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[27/11/2018 23:47:24:304] 9740 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[27/11/2018 23:51:36:391] 7148 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[27/11/2018 23:54:13:785] 17668 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 09:11:58:150] 15060 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 09:18:38:754] 10296 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 09:30:42:535] 16552 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 09:50:13:297] 8592 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 10:11:59:271] 18944 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 10:12:36:608] 17308 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 10:22:54:923] 13904 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 10:38:13:940] 9340 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 10:49:58:107] 12128 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 10:50:55:444] 19152 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:02:55:815] 15264 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:07:35:917] 15276 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:09:28:947] 14456 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:12:42:856] 6076 - EspdCFeSatNomeDllVazioException : A DLL:  não foi encontrada.
+[28/11/2018 14:21:36:737] 17360 - EspdCFeSatNomeDllVazioException : A DLL:  não foi encontrada.
+[28/11/2018 14:22:10:518] 17884 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:25:39:419] 6768 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:29:45:036] 12572 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:30:19:540] 16544 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:31:31:669] 1924 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:39:17:462] 15756 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 14:46:22:588] 15684 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 16:04:48:687] 20908 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 16:07:13:902] 17816 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 16:12:32:323] 18900 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 16:13:54:004] 9356 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 16:17:21:297] 12932 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 16:21:59:846] 12932 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 16:34:54:609] 16076 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 16:36:54:624] 13068 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 16:46:29:533] 19164 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:01:55:375] 20036 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:05:44:701] 13972 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:10:21:628] 19416 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:11:57:620] 12948 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:15:15:988] 14596 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:24:59:796] 15272 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:27:27:566] 13848 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:31:23:982] 14932 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:38:57:541] 14572 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:43:02:160] 4040 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:45:16:025] 10556 - EspdCFeSatNomeDllVazioException : A DLL: C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\BemaSAT.dll não foi encontrada.
+[28/11/2018 17:52:18:736] 20408 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[28/11/2018 17:56:57:036] 6536 - EspdCFeSatLoadDLLFunctionsException : Não foi possível carregar a DLL. Verifique o nome da DLL informada.
+[30/11/2018 18:04:41:765] 14480 - EspdCFeSatNomeDllVazioException : A DLL: C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\ não foi encontrada.
+[30/11/2018 18:13:08:900] 13492 - EspdCFeSatNomeDllVazioException : A DLL: C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\ não foi encontrada.
+[01/12/2018 09:20:52:816] 2392 - EspdCFeSatCancelarUltVendaException : A chave deve possuir 44 dígitos.
+[01/12/2018 09:22:16:748] 9356 - EspdCFeSatCancelarUltVendaException : A chave deve possuir 44 dígitos.
+[01/12/2018 09:23:16:532] 17000 - EspdCFeSatCancelarUltVendaException : A chave deve possuir 44 dígitos.
+[01/12/2018 10:49:28:702] 9804 - EspdCFeSatADInvalidoException : Não foi possível encontrar as tags <CFe> e <assinaturaQRCODE> no xml AD informado.
+[01/12/2018 11:03:59:741] 17752 - EspdCFeSatADInvalidoException : Não foi possível encontrar as tags <CFe> e <assinaturaQRCODE> no xml AD informado.

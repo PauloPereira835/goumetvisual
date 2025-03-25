@@ -1,0 +1,75 @@
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\bin\Debug\GourmetVisual.exe.config
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.vbprojResolveAssemblyReference.cache
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.fdlgAbreMesa.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.fdlgAlteraQtde.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.fdlgCombo.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.fdlgComentarioPrincipal.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.fdlgConfig.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.fdlgConta.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.fdlgPeloCodigo.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.fdlgMensagens.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.frmGrupos.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.frmPrincipal.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.Resources.resources
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.vbproj.GenerateResource.Cache
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.xml
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\bin\Debug\GourmetVisual.exe
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\bin\Debug\GourmetVisual.pdb
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\bin\Debug\GourmetVisual.xml
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.exe
+C:\GourmetVisual\GourmetVisual\GourmetVisual\GourmetLinkedTouch\obj\Debug\GourmetVisual.pdb
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\Gourmet Visual.exe.config
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\Gourmet Visual.exe.manifest
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\Gourmet Visual.application
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\Gourmet Visual.exe
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\Gourmet Visual.pdb
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\Gourmet Visual.xml
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgAbreMesa.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgAbreMovimento.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgAlteraQtde.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgCombo.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgComentarioPrincipal.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgConfigGrupos.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgConta.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgEstorno.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgMensagemBox.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgModuloFiscal_SAT.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgPeloCodigo.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgMensagens.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgTransferencias.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.frmCaixa.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.frmConfiguracao.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.frmInicio.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.frmPagamento.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.frmSalao.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.frmPrincipal.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.Resources.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.vbproj.GenerateResource.Cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\Gourmet Visual.TrustInfo.xml
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\Gourmet Visual.exe.manifest
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\Gourmet Visual.application
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\Gourmet Visual.exe
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\Gourmet Visual.xml
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\Gourmet Visual.pdb
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgSAT.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\Interop.CFeSatDataSetX.dll
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\Interop.CFeSatX.dll
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.vbproj.ResolveComReference.cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.vbproj.CoreCompileInputs.cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgCpf_Cnpj.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.Form1.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgMesas.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgSAT_ConsultaStatus.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgMotivoEstorno.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgSobre.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgLiberaSistema.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgSetores.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgValorVenda.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgPedeMesa.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgOutroCartao.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgAtualizaTabelas.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.vbprojAssemblyReference.cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgMesaCartao.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgMensagensInclusao.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.fdlgPegaPeso.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Debug\GourmetVisual.frmDelivery.resources

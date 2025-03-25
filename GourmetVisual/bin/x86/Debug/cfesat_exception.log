@@ -1,0 +1,132 @@
+[29/11/2018 15:22:27:964] 2384 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [xProd_I04] referente a [Descricao do Produto ou Servico] deve ser preenchido.
+Dica: 
+[29/11/2018 15:26:50:823] 7560 - EspdCFeSatConteudoInvalidoException : Conteúdo 3 é inválido para o campo cMP_WA03 [Código do Meio de Pagamento empregado para quitação do CF-e].
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[29/11/2018 15:28:51:065] 15844 - EspdCFeSatConteudoInvalidoException : Conteúdo 0 é inválido para o campo cMP_WA03 [Código do Meio de Pagamento empregado para quitação do CF-e].
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[04/12/2018 19:01:13:860] 15440 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [CFOP_I06] referente a [Codigo Fiscal de Operacos e Prestacoes] deve ser preenchido.
+Dica: 
+[15/01/2019 21:57:53:773] 13544 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [CFOP_I06] referente a [Codigo Fiscal de Operacos e Prestacoes] deve ser preenchido.
+Dica: 
+[16/01/2019 18:29:20:154] 12212 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [CFOP_I06] referente a [Codigo Fiscal de Operacos e Prestacoes] deve ser preenchido.
+Dica: 
+[16/01/2019 19:26:02:224] 2612 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [CFOP_I06] referente a [Codigo Fiscal de Operacos e Prestacoes] deve ser preenchido.
+Dica: 
+[15/02/2019 20:10:07:231] 17760 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[15/02/2019 20:10:09:012] 17760 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[15/02/2019 20:10:11:096] 17760 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[15/02/2019 20:10:13:108] 17760 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[15/02/2019 20:43:05:958] 5460 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[15/02/2019 21:09:39:026] 3276 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[15/02/2019 21:11:30:300] 9340 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/02/2019 13:56:08:504] 5368 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/02/2019 14:00:35:111] 14500 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/02/2019 14:03:54:723] 8264 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/02/2019 14:10:24:882] 13936 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/02/2019 14:50:20:607] 14504 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/02/2019 14:52:13:221] 14504 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/02/2019 14:53:05:733] 14504 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/02/2019 14:55:08:855] 17444 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/02/2019 15:53:07:058] 18652 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[26/03/2019 19:32:16:931] 8616 - EspdCFeSatDataSetConversorXmlNaoEncontradoException : Arquivo:  C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Sat\Templates\Conversor\ve0006\CFeSatDataSets.xml não encontrado.
+[26/03/2019 19:34:22:106] 15528 - EspdCFeSatDataSetConversorXmlNaoEncontradoException : Arquivo:  C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Sat\Templates\Conversor\ve0006\CFeSatDataSets.xml não encontrado.
+[26/03/2019 19:36:08:253] 11088 - EspdCFeSatDataSetConversorXmlNaoEncontradoException : Arquivo:  C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Sat\Templates\Conversor\ve0006\CFeSatDataSets.xml não encontrado.
+[26/03/2019 19:37:21:896] 11088 - EspdCFeSatDataSetConversorXmlNaoEncontradoException : Arquivo:  C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Sat\Templates\Conversor\ve0006\CFeSatDataSets.xml não encontrado.
+[26/03/2019 19:43:32:966] 10192 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[26/03/2019 19:47:11:815] 10192 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[26/03/2019 20:06:25:102] 12860 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[12/04/2019 15:08:49:727] 14112 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[12/04/2019 15:09:24:354] 14112 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[12/04/2019 15:09:38:788] 14112 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[12/04/2019 15:11:27:810] 6036 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[01/06/2019 10:38:35:878] 11916 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[01/06/2019 10:39:52:531] 12768 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[04/06/2019 17:19:58:338] 14832 - EspdCFeSatPrintArquivoRTMNaoEncontradoException : Arquivo "C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Templates\Impressao\retrato.rtm" não encontrado.
+[04/06/2019 17:19:58:356] 14832 - EspdCFeSatPrintImprimirException : Arquivo "C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Templates\Impressao\retrato.rtm" não encontrado.
+[04/06/2019 17:19:58:360] 14832 - EspdCFeSatImprimirCFeSatException : Problemas ao imprimir o CFe Sat: Arquivo "C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Templates\Impressao\retrato.rtm" não encontrado.
+[04/06/2019 17:25:57:923] 13332 - EspdCFeSatPrintArquivoRTMNaoEncontradoException : Arquivo "C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Templates\Impressao\retrato.rtm" não encontrado.
+[04/06/2019 17:25:57:932] 13332 - EspdCFeSatPrintImprimirException : Arquivo "C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Templates\Impressao\retrato.rtm" não encontrado.
+[04/06/2019 17:25:57:936] 13332 - EspdCFeSatImprimirCFeSatException : Problemas ao imprimir o CFe Sat: Arquivo "C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\Templates\Impressao\retrato.rtm" não encontrado.
+[10/09/2019 13:39:36:056] 17068 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/09/2019 13:42:19:562] 11112 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/09/2019 15:30:44:636] 17620 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/09/2019 19:58:16:248] 17212 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/09/2019 20:00:21:243] 15204 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/09/2019 20:00:42:149] 15204 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/09/2019 20:00:51:049] 15204 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/10/2019 14:14:18:537] 10664 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [CFOP_I06] referente a [Codigo Fiscal de Operacos e Prestacoes] deve ser preenchido.
+Dica: 
+[10/10/2019 15:02:26:931] 5524 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/10/2019 15:09:13:884] 5524 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[21/10/2019 10:43:28:087] 16912 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [CFOP_I06] referente a [Codigo Fiscal de Operacos e Prestacoes] deve ser preenchido.
+Dica: 
+[22/10/2019 15:03:23:607] 23932 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [CFOP_I06] referente a [Codigo Fiscal de Operacos e Prestacoes] deve ser preenchido.
+Dica: 
+[03/12/2019 20:12:28:669] 25252 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [CFOP_I06] referente a [Codigo Fiscal de Operacos e Prestacoes] deve ser preenchido.
+Dica: 
+[14/02/2020 13:30:29:141] 10032 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[18/05/2020 17:37:42:346] 19612 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[20/05/2020 05:52:08:535] 22524 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[20/05/2020 06:01:33:702] 12692 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[09/06/2020 16:10:24:445] 25620 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[09/06/2020 16:53:53:150] 384 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[09/06/2020 17:09:33:458] 9012 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/06/2020 14:14:58:312] 24480 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/06/2020 14:36:36:872] 15700 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/06/2020 14:51:49:251] 13132 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/06/2020 17:13:46:155] 4752 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[10/06/2020 17:14:58:022] 4752 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[04/08/2020 14:48:02:865] 23604 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [CFOP_I06] referente a [Codigo Fiscal de Operacos e Prestacoes] deve ser preenchido.
+Dica: 
+[15/09/2020 14:57:12:699] 15444 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[03/10/2022 11:38:01:716] 15560 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros
+[03/10/2022 11:40:19:877] 15732 - EspdCFeSatDataSetCampoNaoPreenchidoException : O Campo [cMP_WA03] referente a [Código do Meio de Pagamento empregado para quitação do CF-e] deve ser preenchido.
+Dica: 01-Dinheiro/02-Cheque/03-Cartão de Crédito/04-Cartão de Débito/05-Crédito Loja/10-Vale Alimentação/11-Vale Refeição/12-Vale Presente/13-Vale Combustível/99 – Outros

@@ -1,0 +1,306 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gourmet Visual
+</name>
+</assembly>
+<members>
+<member name="T:GourmetVisual.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Back">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Back1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Back2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.balcao11">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.base">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Botao_Ret_Laranja">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Botao_Ret_Laranja2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.BotaoLaranjaOK">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Cancel">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Clipboard_Paste">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Clipboard_Paste1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Currency_Dollar">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.delivery">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Document">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Document_New">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Document2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Dots">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.exclamacao">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.faixa2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Hdd">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Imprimir">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.interrogacao">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Lixeira">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_Gourmet">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_Gourmet_menu1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_IRIS">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_IRIS1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Azul_horizintal">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Verde_horizintal">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Verde_pg">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Vermelha_horizintal">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Ok">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Ok1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Plus">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Plus1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Plus2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Pointer">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Printer">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Printer1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.salao_balcao">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.salao11">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.sat">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.satOK">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Save">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Save1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Save2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Size_Vert">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Standby">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Tool">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Trash">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Trash1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Trash2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.SombraLabel.OffsetX">
+ <summary> 
+ Definição do offset em X 
+ </summary> 
+</member>
+<member name="P:GourmetVisual.SombraLabel.OffsetY">
+ <summary> 
+ Definição do offset em Y 
+ </summary> 
+</member>
+<member name="P:GourmetVisual.SombraLabel.ForeColorFront">
+ <summary> 
+ Definição da cor da frente 
+ </summary> 
+</member>
+<member name="P:GourmetVisual.SombraLabel.ForeColorBack">
+ <summary> 
+ Definição da cor de sombreado 
+ </summary> 
+</member>
+</members>
+</doc>

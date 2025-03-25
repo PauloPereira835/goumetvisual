@@ -1,0 +1,43 @@
+ MESA  1
+ 
+ 
+ 
+IRIS TECNOLOGIA
+RUA DEMETRE STRAVOS DAGRES,85
+04610-030  -  
+------------------------------------------
+Atendente : BARBARA
+Periodo   : 04:13/10:23    23/02/2019
+Venda     : 164
+Controle interno sem valor fiscal
+==========================================
+CONFERENCIA DE CONTA     MESA: 1
+==========================================
+Descricao          Qtde.   Unit.    Total 
+------------------------------------------
+BARQUINHA DE ATUM      1   29,00     29,00
+BRAGANCA ACEBOLADA     1   45,00     45,00
+CALABRESA              1   25,00     25,00
+FILE MIGNON            1   19,00     19,00
+FRIOS GRANDE           1   55,00     55,00
+FRITAS PEQUENA         1   10,00     10,00
+MINI SALGADOS          1   23,00     23,00
+PASTEIZINHOS           1   25,00     25,00
+PERNIL                 1   25,00     25,00
+VODKA SMIRNOFF         1   12,00     12,00
+==========================================
+Sub-total                           268,00
+Servico                               1,90
+                              ------------
+TOTAL          269,90
+------------------------------------------
+Permanencia : 162:9
+------------------------------------------
+Gourmet Visual - www.iristecnologia.com.br
+ 
+ 
+ 
+ 
+ 
+ 
+ 

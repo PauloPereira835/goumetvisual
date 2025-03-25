@@ -1,0 +1,55 @@
+30/01/2019,09:12:09:423 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,09:12:09:438 spdLicenseAdapter: Tentativa 1 de 2
+30/01/2019,09:12:09:440 spdLicenseAdapter: Validando a licença.
+30/01/2019,09:12:09:441 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,09:12:09:443 spdLicense: Verificando se baixou a licença hoje: 0
+30/01/2019,09:12:09:444 spdLicense: Obtendo Código.
+30/01/2019,09:12:09:446 spdLicense: Código da licença não obtido. Tentando obter o código novamente.
+30/01/2019,09:12:09:447 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: CNPJ=82373077000171 
+ PRODUTO=0000000053 
+ VERSAO=4.1.23.5299
+30/01/2019,09:12:09:578 spdClienteLicense: Verificando se o servidor retornou a licença corretamente.
+30/01/2019,09:12:09:589 spdClienteLicense: Código retornado: 49594
+30/01/2019,09:12:09:592 spdLicense: Código obtido: 49594
+30/01/2019,09:12:09:594 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: LICENCA=49594
+30/01/2019,09:12:09:648 spdLicense: Resultado da requisição gravada no License.dat: 62576=456$$6=65~xny6INFJ_NHC+X%%J'ojn6:?$;9$9;:2'`nr68:;93::>''ojnnehdon68;$;:$9;:2w
+30/01/2019,09:12:09:652 spdLicense: Validando o arquivo.
+30/01/2019,09:12:09:655 spdLicense: Verificando a hash.
+30/01/2019,09:12:09:658 spdLicense: Verificando a data
+30/01/2019,09:12:09:660 spdLicenseAdapter: Licença validada com sucesso.
+30/01/2019,09:18:38:706 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,09:18:38:708 spdLicenseAdapter: Tentativa 1 de 2
+30/01/2019,09:18:38:708 spdLicenseAdapter: Validando a licença.
+30/01/2019,09:18:38:709 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,09:18:38:710 spdLicense: Verificando se baixou a licença hoje: -1
+30/01/2019,09:18:38:711 spdLicense: Validando o arquivo.
+30/01/2019,09:18:38:712 spdLicense: Verificando a hash.
+30/01/2019,09:18:38:712 spdLicense: Verificando a data
+30/01/2019,09:18:38:713 spdLicenseAdapter: Licença validada com sucesso.
+30/01/2019,14:12:10:344 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,14:12:10:345 spdLicenseAdapter: Tentativa 1 de 2
+30/01/2019,14:12:10:346 spdLicenseAdapter: Validando a licença.
+30/01/2019,14:12:10:346 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,14:12:10:347 spdLicense: Verificando se baixou a licença hoje: -1
+30/01/2019,14:12:10:348 spdLicense: Validando o arquivo.
+30/01/2019,14:12:10:349 spdLicense: Verificando a hash.
+30/01/2019,14:12:10:349 spdLicense: Verificando a data
+30/01/2019,14:12:10:350 spdLicenseAdapter: Licença validada com sucesso.
+30/01/2019,14:12:18:738 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,14:12:18:739 spdLicenseAdapter: Tentativa 1 de 2
+30/01/2019,14:12:18:740 spdLicenseAdapter: Validando a licença.
+30/01/2019,14:12:18:740 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,14:12:18:741 spdLicense: Verificando se baixou a licença hoje: -1
+30/01/2019,14:12:18:741 spdLicense: Validando o arquivo.
+30/01/2019,14:12:18:742 spdLicense: Verificando a hash.
+30/01/2019,14:12:18:743 spdLicense: Verificando a data
+30/01/2019,14:12:18:743 spdLicenseAdapter: Licença validada com sucesso.
+30/01/2019,14:47:07:865 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,14:47:07:866 spdLicenseAdapter: Tentativa 1 de 2
+30/01/2019,14:47:07:867 spdLicenseAdapter: Validando a licença.
+30/01/2019,14:47:07:868 spdLicense: Verificando se precisa baixar a licença: 0
+30/01/2019,14:47:07:868 spdLicense: Verificando se baixou a licença hoje: -1
+30/01/2019,14:47:07:869 spdLicense: Validando o arquivo.
+30/01/2019,14:47:07:870 spdLicense: Verificando a hash.
+30/01/2019,14:47:07:870 spdLicense: Verificando a data
+30/01/2019,14:47:07:871 spdLicenseAdapter: Licença validada com sucesso.

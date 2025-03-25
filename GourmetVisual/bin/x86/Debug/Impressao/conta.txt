@@ -1,0 +1,42 @@
+ 
+ 
+ 
+ 
+ 
+DELIVERY
+Pedido 4
+ 
+ 
+IRIS TECNOLOGIA
+------------------------------------------
+PAULO
+DOUTOR RENATO PAES DE BARROS, RUA, 
+11
+ITAIM BIBI
+CEP: 04530000
+------------------------------------------
+Telefone       : 22222222
+------------------------------------------
+Atendente : JOAO
+Data      : 27/11/2024  11:43
+Venda     : 4
+------------------------------------------
+Controle interno sem valor fiscal
+==========================================
+Descricao          Qtde.   Unit.    Total 
+------------------------------------------
+AGUA C/GAZ             1    5,00      5,00
+==========================================
+Sub-total                             5,00
+Taxa Entrega                          0,00
+                              ------------
+TOTAL                                 5,00
+------------------------------------------
+Forma pagamento: DINHEIRO
+------------------------------------------
+Gourmet Visual    www.gourmetvisual.com.br
+ 
+ 
+ 
+ 
+ 

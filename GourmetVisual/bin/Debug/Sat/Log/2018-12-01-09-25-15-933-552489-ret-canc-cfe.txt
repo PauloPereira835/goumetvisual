@@ -1,0 +1,1 @@
+552489|07007|1210|Intervalo de tempo entre a emissão do CFe a ser cancelado e a emissão do respectivo CFe de cancelamento é maior que 30 (trinta) minutos||

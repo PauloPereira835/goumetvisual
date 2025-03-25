@@ -1,0 +1,2 @@
+Set spdSAT = New spdCFeSatX
+Set spdSATDataSet = New spdCFeSatDataSetX

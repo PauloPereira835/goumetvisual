@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectionsResponse>
+ <status>REQUEST_DENIED</status>
+ <error_message>You must enable Billing on the Google Cloud Project at https://console.cloud.google.com/project/_/billing/enable Learn more at https://developers.google.com/maps/gmp-get-started</error_message>
+</DirectionsResponse>

@@ -1,0 +1,19 @@
+23/01/2019,10:21:48:236 spdLicense: Verificando se precisa baixar a licença: 0
+23/01/2019,10:21:48:238 spdLicenseAdapter: Tentativa 1 de 2
+23/01/2019,10:21:48:239 spdLicenseAdapter: Validando a licença.
+23/01/2019,10:21:48:240 spdLicense: Verificando se precisa baixar a licença: 0
+23/01/2019,10:21:48:241 spdLicense: Verificando se baixou a licença hoje: 0
+23/01/2019,10:21:48:242 spdLicense: Obtendo Código.
+23/01/2019,10:21:48:242 spdLicense: Código da licença não obtido. Tentando obter o código novamente.
+23/01/2019,10:21:48:243 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: CNPJ=82373077000171 
+ PRODUTO=0000000053 
+ VERSAO=4.1.23.5299
+23/01/2019,10:21:48:376 spdClienteLicense: Verificando se o servidor retornou a licença corretamente.
+23/01/2019,10:21:48:381 spdClienteLicense: Código retornado: 49594
+23/01/2019,10:21:48:383 spdLicense: Código obtido: 49594
+23/01/2019,10:21:48:385 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: LICENCA=49594
+23/01/2019,10:21:48:458 spdLicense: Resultado da requisição gravada no License.dat: 3201=4577$$0=46f`va.QV^RGVP[3@=R?wrgv.#$<#!<!#"*?xvj.%32;"#""'$&??wrgvv}p|wv.!%32;<#"<!#"*o
+23/01/2019,10:21:48:462 spdLicense: Validando o arquivo.
+23/01/2019,10:21:48:466 spdLicense: Verificando a hash.
+23/01/2019,10:21:48:468 spdLicense: Verificando a data
+23/01/2019,10:21:48:471 spdLicenseAdapter: Licença validada com sucesso.

@@ -1,0 +1,10 @@
+27/11/2024,11:49:14:241 spdLicense: Verificando se precisa baixar a licença: 0
+27/11/2024,11:49:14:243 spdLicenseAdapter: Tentativa 1 de 2
+27/11/2024,11:49:14:321 spdLicenseAdapter: Validando a licença.
+27/11/2024,11:49:14:332 spdLicense: Verificando se precisa baixar a licença: 0
+27/11/2024,11:49:14:345 spdLicense: Verificando se baixou a licença hoje: 0
+27/11/2024,11:49:14:347 spdLicense: Obtendo Código.
+27/11/2024,11:49:14:365 spdLicense: Código da licença não obtido. Tentando obter o código novamente.
+27/11/2024,11:49:14:373 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: CNPJ=08723218000186 
+ PRODUTO=0000000053 
+ VERSAO=2.7.19.58006

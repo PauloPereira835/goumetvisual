@@ -1,0 +1,28 @@
+16/01/2019,18:13:20:971 spdLicense: Verificando se precisa baixar a licença: 0
+16/01/2019,18:13:20:972 spdLicenseAdapter: Tentativa 1 de 2
+16/01/2019,18:13:20:973 spdLicenseAdapter: Validando a licença.
+16/01/2019,18:13:20:974 spdLicense: Verificando se precisa baixar a licença: 0
+16/01/2019,18:13:20:975 spdLicense: Verificando se baixou a licença hoje: 0
+16/01/2019,18:13:20:976 spdLicense: Obtendo Código.
+16/01/2019,18:13:20:977 spdLicense: Código da licença não obtido. Tentando obter o código novamente.
+16/01/2019,18:13:20:978 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: CNPJ=82373077000171 
+ PRODUTO=0000000053 
+ VERSAO=4.1.23.5299
+16/01/2019,18:13:21:430 spdClienteLicense: Verificando se o servidor retornou a licença corretamente.
+16/01/2019,18:13:21:434 spdClienteLicense: Código retornado: 230729
+16/01/2019,18:13:21:436 spdLicense: Código obtido: 230729
+16/01/2019,18:13:21:438 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: LICENCA=230729
+16/01/2019,18:13:21:578 spdLicense: Resultado da requisição gravada no License.dat: 7705<<1614$7132x~h0NBCYDCJÎ?CNDL-YHNCB^]HHI!ilyh0><"=<"?=<4!fht0?44:;:?>!!ilyhhcnbih0<;"=<"?=<4q
+16/01/2019,18:13:21:581 spdLicense: Validando o arquivo.
+16/01/2019,18:13:21:585 spdLicense: Verificando a hash.
+16/01/2019,18:13:21:587 spdLicense: Verificando a data
+16/01/2019,18:13:21:589 spdLicenseAdapter: Licença validada com sucesso.
+16/01/2019,19:47:06:393 spdLicense: Verificando se precisa baixar a licença: 0
+16/01/2019,19:47:06:393 spdLicenseAdapter: Tentativa 1 de 2
+16/01/2019,19:47:06:393 spdLicenseAdapter: Validando a licença.
+16/01/2019,19:47:06:393 spdLicense: Verificando se precisa baixar a licença: 0
+16/01/2019,19:47:06:393 spdLicense: Verificando se baixou a licença hoje: -1
+16/01/2019,19:47:06:393 spdLicense: Validando o arquivo.
+16/01/2019,19:47:06:393 spdLicense: Verificando a hash.
+16/01/2019,19:47:06:393 spdLicense: Verificando a data
+16/01/2019,19:47:06:393 spdLicenseAdapter: Licença validada com sucesso.

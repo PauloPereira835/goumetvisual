@@ -1,0 +1,73 @@
+08/12/2018,11:54:57:603 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,11:54:57:605 spdLicenseAdapter: Tentativa 1 de 2
+08/12/2018,11:54:57:605 spdLicenseAdapter: Validando a licença.
+08/12/2018,11:54:57:606 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,11:54:57:607 spdLicense: Verificando se baixou a licença hoje: 0
+08/12/2018,11:54:57:608 spdLicense: Obtendo Código.
+08/12/2018,11:54:57:608 spdLicense: Código da licença não obtido. Tentando obter o código novamente.
+08/12/2018,11:54:57:609 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: CNPJ=82373077000171 
+ PRODUTO=0000000053 
+ VERSAO=4.1.23.5299
+08/12/2018,11:54:58:151 spdClienteLicense: Verificando se o servidor retornou a licença corretamente.
+08/12/2018,11:54:58:154 spdClienteLicense: Código retornado: 482165
+08/12/2018,11:54:58:157 spdLicense: Código obtido: 482165
+08/12/2018,11:54:58:160 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: LICENCA=482165
+08/12/2018,11:54:58:317 spdLicense: Resultado da requisição gravada no License.dat: 02=04640<$$503=pv`w8FJKQLKBÆKFLD%%Q@FKJVU@@A)adq`876*47*754=)n`|8441<5==4=))adq``kfja`85=*47*754=y
+08/12/2018,11:54:58:321 spdLicense: Validando o arquivo.
+08/12/2018,11:54:58:324 spdLicense: Verificando a hash.
+08/12/2018,11:54:58:327 spdLicense: Verificando a data
+08/12/2018,11:54:58:329 spdLicenseAdapter: Licença validada com sucesso.
+08/12/2018,11:55:23:082 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,11:55:23:086 spdLicenseAdapter: Tentativa 1 de 2
+08/12/2018,11:55:23:088 spdLicenseAdapter: Validando a licença.
+08/12/2018,11:55:23:090 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,11:55:23:092 spdLicense: Verificando se baixou a licença hoje: -1
+08/12/2018,11:55:23:095 spdLicense: Validando o arquivo.
+08/12/2018,11:55:23:097 spdLicense: Verificando a hash.
+08/12/2018,11:55:23:099 spdLicense: Verificando a data
+08/12/2018,11:55:23:101 spdLicenseAdapter: Licença validada com sucesso.
+08/12/2018,11:55:40:190 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,11:55:40:192 spdLicenseAdapter: Tentativa 1 de 2
+08/12/2018,11:55:40:194 spdLicenseAdapter: Validando a licença.
+08/12/2018,11:55:40:196 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,11:55:40:197 spdLicense: Verificando se baixou a licença hoje: -1
+08/12/2018,11:55:40:199 spdLicense: Validando o arquivo.
+08/12/2018,11:55:40:201 spdLicense: Verificando a hash.
+08/12/2018,11:55:40:202 spdLicense: Verificando a data
+08/12/2018,11:55:40:204 spdLicenseAdapter: Licença validada com sucesso.
+08/12/2018,11:56:01:660 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,11:56:01:661 spdLicenseAdapter: Tentativa 1 de 2
+08/12/2018,11:56:01:662 spdLicenseAdapter: Validando a licença.
+08/12/2018,11:56:01:662 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,11:56:01:663 spdLicense: Verificando se baixou a licença hoje: -1
+08/12/2018,11:56:01:664 spdLicense: Validando o arquivo.
+08/12/2018,11:56:01:665 spdLicense: Verificando a hash.
+08/12/2018,11:56:01:665 spdLicense: Verificando a data
+08/12/2018,11:56:01:666 spdLicenseAdapter: Licença validada com sucesso.
+08/12/2018,12:41:33:330 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,12:41:33:331 spdLicenseAdapter: Tentativa 1 de 2
+08/12/2018,12:41:33:331 spdLicenseAdapter: Validando a licença.
+08/12/2018,12:41:33:332 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,12:41:33:332 spdLicense: Verificando se baixou a licença hoje: -1
+08/12/2018,12:41:33:332 spdLicense: Validando o arquivo.
+08/12/2018,12:41:33:333 spdLicense: Verificando a hash.
+08/12/2018,12:41:33:334 spdLicense: Verificando a data
+08/12/2018,12:41:33:334 spdLicenseAdapter: Licença validada com sucesso.
+08/12/2018,12:44:31:092 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,12:44:31:094 spdLicenseAdapter: Tentativa 1 de 2
+08/12/2018,12:44:31:094 spdLicenseAdapter: Validando a licença.
+08/12/2018,12:44:31:095 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,12:44:31:095 spdLicense: Verificando se baixou a licença hoje: -1
+08/12/2018,12:44:31:096 spdLicense: Validando o arquivo.
+08/12/2018,12:44:31:097 spdLicense: Verificando a hash.
+08/12/2018,12:44:31:097 spdLicense: Verificando a data
+08/12/2018,12:44:31:098 spdLicenseAdapter: Licença validada com sucesso.
+08/12/2018,12:45:20:109 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,12:45:20:110 spdLicenseAdapter: Tentativa 1 de 2
+08/12/2018,12:45:20:111 spdLicenseAdapter: Validando a licença.
+08/12/2018,12:45:20:112 spdLicense: Verificando se precisa baixar a licença: 0
+08/12/2018,12:45:20:112 spdLicense: Verificando se baixou a licença hoje: -1
+08/12/2018,12:45:20:112 spdLicense: Validando o arquivo.
+08/12/2018,12:45:20:113 spdLicense: Verificando a hash.
+08/12/2018,12:45:20:113 spdLicense: Verificando a data
+08/12/2018,12:45:20:114 spdLicenseAdapter: Licença validada com sucesso.

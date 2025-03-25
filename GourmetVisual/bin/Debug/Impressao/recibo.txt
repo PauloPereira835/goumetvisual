@@ -1,0 +1,19 @@
+RECIBO VENDA BALCAO
+=================================================
+Data      :  04/12/2018 21:42:58
+Venda     :  52
+Atendenter:  PAULO SERGIO PEREIRA
+Operador  :  PAULO SERGIO PEREIRA
+Desconto  :  0,00
+Vlr venda :  7,00
+-------------------------------------------------
+DINHEIRO                          7,00
+==================================================
+TOTAL RECEBIDO                    7,00
+ 
+ 
+ 
+ 
+ 
+ 
+ 

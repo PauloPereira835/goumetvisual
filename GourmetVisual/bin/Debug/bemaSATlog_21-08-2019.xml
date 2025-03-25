@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bematech>
+	<readBemaSATFile Time="21-08-2019 09:05:21:520">
+		<NivelLog Time="21-08-2019 09:05:21:521">1</NivelLog>
+		<Path Time="21-08-2019 09:05:21:521">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\</Path>
+		<BemaSAT_path Time="21-08-2019 09:05:21:522">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\bemasat.dll</BemaSAT_path>
+		<BemaSAT_version Time="21-08-2019 09:05:21:522">1,0,2,35</BemaSAT_version>
+		<BemaSAT_path_configuracao Time="21-08-2019 09:05:21:522">.\bemasat.xml</BemaSAT_path_configuracao>
+		<LocalizarPorta Time="21-08-2019 09:05:21:523">1</LocalizarPorta>
+		<USB_ID Time="21-08-2019 09:05:21:524">PID:0B1B_VID:0108 Nao Localizado</USB_ID>
+		<USB_ID Time="21-08-2019 09:05:21:525">PID:0525_VID:A4A7 Nao Localizado</USB_ID>
+		<Porta Time="21-08-2019 09:05:21:527">COM5</Porta>
+		<ValidarParametros Time="21-08-2019 09:05:21:528">1</ValidarParametros>
+		<Timeout_Ativacao Time="21-08-2019 09:05:21:528">600000</Timeout_Ativacao>
+		<Timeout_ICP_Brasil Time="21-08-2019 09:05:21:529">480000</Timeout_ICP_Brasil>
+		<Timeout_Consultar_SAT Time="21-08-2019 09:05:21:529">10000</Timeout_Consultar_SAT>
+		<Timeout_Associar_Assinatura Time="21-08-2019 09:05:21:530">20000</Timeout_Associar_Assinatura>
+		<Timeout_Consultar_Sessao Time="21-08-2019 09:05:21:531">30000</Timeout_Consultar_Sessao>
+		<Timeout_Trocar_Codigo_Ativacao Time="21-08-2019 09:05:21:531">20000</Timeout_Trocar_Codigo_Ativacao>
+		<Timeout_Bloquear_SAT Time="21-08-2019 09:05:21:532">300000</Timeout_Bloquear_SAT>
+		<Timeout_Desbloquear_SAT Time="21-08-2019 09:05:21:532">30000</Timeout_Desbloquear_SAT>
+		<Timeout_Extrair_Logs Time="21-08-2019 09:05:21:533">60000</Timeout_Extrair_Logs>
+		<Timeout_Atualizar_SAT Time="21-08-2019 09:05:21:533">1800000</Timeout_Atualizar_SAT>
+		<Timeout_Configurar_Rede Time="21-08-2019 09:05:21:534">30000</Timeout_Configurar_Rede>
+		<Timeout_Enviar_Venda Time="21-08-2019 09:05:21:535">60000</Timeout_Enviar_Venda>
+		<Timeout_Cancelar_Venda Time="21-08-2019 09:05:21:535">20000</Timeout_Cancelar_Venda>
+		<Timeout_Teste_Fim_a_Fim Time="21-08-2019 09:05:21:536">30000</Timeout_Teste_Fim_a_Fim>
+		<Timeout_Consultar_Status Time="21-08-2019 09:05:21:536">15000</Timeout_Consultar_Status>
+		<Timeout_intervalo_status Time="21-08-2019 09:05:21:537">1800000</Timeout_intervalo_status>
+		<resetWait Time="21-08-2019 09:05:21:538">0</resetWait>
+		<ArquivoDados Time="21-08-2019 09:05:21:538">.\bemasat.db</ArquivoDados>
+		<ExtrairLogsPeriodicos Time="21-08-2019 09:05:21:539">0</ExtrairLogsPeriodicos>
+		<Return Time="21-08-2019 09:05:21:540">1</Return>
+	</readBemaSATFile>
+	<readBemaSATFile Time="21-08-2019 09:06:49:157">
+		<NivelLog Time="21-08-2019 09:06:49:157">1</NivelLog>
+		<Path Time="21-08-2019 09:06:49:157">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\</Path>
+		<BemaSAT_path Time="21-08-2019 09:06:49:158">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\bemasat.dll</BemaSAT_path>
+		<BemaSAT_version Time="21-08-2019 09:06:49:158">1,0,2,35</BemaSAT_version>
+		<BemaSAT_path_configuracao Time="21-08-2019 09:06:49:158">.\bemasat.xml</BemaSAT_path_configuracao>
+		<LocalizarPorta Time="21-08-2019 09:06:49:159">1</LocalizarPorta>
+		<USB_ID Time="21-08-2019 09:06:49:159">PID:0B1B_VID:0108 Nao Localizado</USB_ID>
+		<USB_ID Time="21-08-2019 09:06:49:159">PID:0525_VID:A4A7 Nao Localizado</USB_ID>
+		<Porta Time="21-08-2019 09:06:49:161">COM5</Porta>
+		<ValidarParametros Time="21-08-2019 09:06:49:162">1</ValidarParametros>
+		<Timeout_Ativacao Time="21-08-2019 09:06:49:162">600000</Timeout_Ativacao>
+		<Timeout_ICP_Brasil Time="21-08-2019 09:06:49:163">480000</Timeout_ICP_Brasil>
+		<Timeout_Consultar_SAT Time="21-08-2019 09:06:49:163">10000</Timeout_Consultar_SAT>
+		<Timeout_Associar_Assinatura Time="21-08-2019 09:06:49:164">20000</Timeout_Associar_Assinatura>
+		<Timeout_Consultar_Sessao Time="21-08-2019 09:06:49:164">30000</Timeout_Consultar_Sessao>
+		<Timeout_Trocar_Codigo_Ativacao Time="21-08-2019 09:06:49:164">20000</Timeout_Trocar_Codigo_Ativacao>
+		<Timeout_Bloquear_SAT Time="21-08-2019 09:06:49:165">300000</Timeout_Bloquear_SAT>
+		<Timeout_Desbloquear_SAT Time="21-08-2019 09:06:49:167">30000</Timeout_Desbloquear_SAT>
+		<Timeout_Extrair_Logs Time="21-08-2019 09:06:49:167">60000</Timeout_Extrair_Logs>
+		<Timeout_Atualizar_SAT Time="21-08-2019 09:06:49:168">1800000</Timeout_Atualizar_SAT>
+		<Timeout_Configurar_Rede Time="21-08-2019 09:06:49:168">30000</Timeout_Configurar_Rede>
+		<Timeout_Enviar_Venda Time="21-08-2019 09:06:49:168">60000</Timeout_Enviar_Venda>
+		<Timeout_Cancelar_Venda Time="21-08-2019 09:06:49:169">20000</Timeout_Cancelar_Venda>
+		<Timeout_Teste_Fim_a_Fim Time="21-08-2019 09:06:49:169">30000</Timeout_Teste_Fim_a_Fim>
+		<Timeout_Consultar_Status Time="21-08-2019 09:06:49:169">15000</Timeout_Consultar_Status>
+		<Timeout_intervalo_status Time="21-08-2019 09:06:49:170">1800000</Timeout_intervalo_status>
+		<resetWait Time="21-08-2019 09:06:49:170">0</resetWait>
+		<ArquivoDados Time="21-08-2019 09:06:49:170">.\bemasat.db</ArquivoDados>
+		<ExtrairLogsPeriodicos Time="21-08-2019 09:06:49:171">0</ExtrairLogsPeriodicos>
+		<Return Time="21-08-2019 09:06:49:171">1</Return>
+	</readBemaSATFile>
+	<readBemaSATFile Time="21-08-2019 09:09:15:168">
+		<NivelLog Time="21-08-2019 09:09:15:168">1</NivelLog>
+		<Path Time="21-08-2019 09:09:15:169">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\</Path>
+		<BemaSAT_path Time="21-08-2019 09:09:15:169">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\bemasat.dll</BemaSAT_path>
+		<BemaSAT_version Time="21-08-2019 09:09:15:170">1,0,2,35</BemaSAT_version>
+		<BemaSAT_path_configuracao Time="21-08-2019 09:09:15:170">.\bemasat.xml</BemaSAT_path_configuracao>
+		<LocalizarPorta Time="21-08-2019 09:09:15:170">1</LocalizarPorta>
+		<USB_ID Time="21-08-2019 09:09:15:170">PID:0B1B_VID:0108 Nao Localizado</USB_ID>
+		<USB_ID Time="21-08-2019 09:09:15:171">PID:0525_VID:A4A7 Nao Localizado</USB_ID>
+		<Porta Time="21-08-2019 09:09:15:173">COM5</Porta>
+		<ValidarParametros Time="21-08-2019 09:09:15:173">1</ValidarParametros>
+		<Timeout_Ativacao Time="21-08-2019 09:09:15:174">600000</Timeout_Ativacao>
+		<Timeout_ICP_Brasil Time="21-08-2019 09:09:15:174">480000</Timeout_ICP_Brasil>
+		<Timeout_Consultar_SAT Time="21-08-2019 09:09:15:174">10000</Timeout_Consultar_SAT>
+		<Timeout_Associar_Assinatura Time="21-08-2019 09:09:15:175">20000</Timeout_Associar_Assinatura>
+		<Timeout_Consultar_Sessao Time="21-08-2019 09:09:15:175">30000</Timeout_Consultar_Sessao>
+		<Timeout_Trocar_Codigo_Ativacao Time="21-08-2019 09:09:15:175">20000</Timeout_Trocar_Codigo_Ativacao>
+		<Timeout_Bloquear_SAT Time="21-08-2019 09:09:15:175">300000</Timeout_Bloquear_SAT>
+		<Timeout_Desbloquear_SAT Time="21-08-2019 09:09:15:176">30000</Timeout_Desbloquear_SAT>
+		<Timeout_Extrair_Logs Time="21-08-2019 09:09:15:176">60000</Timeout_Extrair_Logs>
+		<Timeout_Atualizar_SAT Time="21-08-2019 09:09:15:176">1800000</Timeout_Atualizar_SAT>
+		<Timeout_Configurar_Rede Time="21-08-2019 09:09:15:177">30000</Timeout_Configurar_Rede>
+		<Timeout_Enviar_Venda Time="21-08-2019 09:09:15:177">60000</Timeout_Enviar_Venda>
+		<Timeout_Cancelar_Venda Time="21-08-2019 09:09:15:177">20000</Timeout_Cancelar_Venda>
+		<Timeout_Teste_Fim_a_Fim Time="21-08-2019 09:09:15:178">30000</Timeout_Teste_Fim_a_Fim>
+		<Timeout_Consultar_Status Time="21-08-2019 09:09:15:178">15000</Timeout_Consultar_Status>
+		<Timeout_intervalo_status Time="21-08-2019 09:09:15:178">1800000</Timeout_intervalo_status>
+		<resetWait Time="21-08-2019 09:09:15:178">0</resetWait>
+		<ArquivoDados Time="21-08-2019 09:09:15:179">.\bemasat.db</ArquivoDados>
+		<ExtrairLogsPeriodicos Time="21-08-2019 09:09:15:179">0</ExtrairLogsPeriodicos>
+		<Return Time="21-08-2019 09:09:15:179">1</Return>
+	</readBemaSATFile>
+	<readBemaSATFile Time="21-08-2019 09:09:55:890">
+		<NivelLog Time="21-08-2019 09:09:55:890">1</NivelLog>
+		<Path Time="21-08-2019 09:09:55:891">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\</Path>
+		<BemaSAT_path Time="21-08-2019 09:09:55:891">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\bemasat.dll</BemaSAT_path>
+		<BemaSAT_version Time="21-08-2019 09:09:55:891">1,0,2,35</BemaSAT_version>
+		<BemaSAT_path_configuracao Time="21-08-2019 09:09:55:892">.\bemasat.xml</BemaSAT_path_configuracao>
+		<LocalizarPorta Time="21-08-2019 09:09:55:892">1</LocalizarPorta>
+		<USB_ID Time="21-08-2019 09:09:55:892">PID:0B1B_VID:0108 Nao Localizado</USB_ID>
+		<USB_ID Time="21-08-2019 09:09:55:892">PID:0525_VID:A4A7 Nao Localizado</USB_ID>
+		<Porta Time="21-08-2019 09:09:55:894">COM5</Porta>
+		<ValidarParametros Time="21-08-2019 09:09:55:894">1</ValidarParametros>
+		<Timeout_Ativacao Time="21-08-2019 09:09:55:894">600000</Timeout_Ativacao>
+		<Timeout_ICP_Brasil Time="21-08-2019 09:09:55:895">480000</Timeout_ICP_Brasil>
+		<Timeout_Consultar_SAT Time="21-08-2019 09:09:55:895">10000</Timeout_Consultar_SAT>
+		<Timeout_Associar_Assinatura Time="21-08-2019 09:09:55:895">20000</Timeout_Associar_Assinatura>
+		<Timeout_Consultar_Sessao Time="21-08-2019 09:09:55:895">30000</Timeout_Consultar_Sessao>
+		<Timeout_Trocar_Codigo_Ativacao Time="21-08-2019 09:09:55:896">20000</Timeout_Trocar_Codigo_Ativacao>
+		<Timeout_Bloquear_SAT Time="21-08-2019 09:09:55:896">300000</Timeout_Bloquear_SAT>
+		<Timeout_Desbloquear_SAT Time="21-08-2019 09:09:55:896">30000</Timeout_Desbloquear_SAT>
+		<Timeout_Extrair_Logs Time="21-08-2019 09:09:55:897">60000</Timeout_Extrair_Logs>
+		<Timeout_Atualizar_SAT Time="21-08-2019 09:09:55:897">1800000</Timeout_Atualizar_SAT>
+		<Timeout_Configurar_Rede Time="21-08-2019 09:09:55:897">30000</Timeout_Configurar_Rede>
+		<Timeout_Enviar_Venda Time="21-08-2019 09:09:55:898">60000</Timeout_Enviar_Venda>
+		<Timeout_Cancelar_Venda Time="21-08-2019 09:09:55:898">20000</Timeout_Cancelar_Venda>
+		<Timeout_Teste_Fim_a_Fim Time="21-08-2019 09:09:55:898">30000</Timeout_Teste_Fim_a_Fim>
+		<Timeout_Consultar_Status Time="21-08-2019 09:09:55:898">15000</Timeout_Consultar_Status>
+		<Timeout_intervalo_status Time="21-08-2019 09:09:55:899">1800000</Timeout_intervalo_status>
+		<resetWait Time="21-08-2019 09:09:55:899">0</resetWait>
+		<ArquivoDados Time="21-08-2019 09:09:55:899">.\bemasat.db</ArquivoDados>
+		<ExtrairLogsPeriodicos Time="21-08-2019 09:09:55:900">0</ExtrairLogsPeriodicos>
+		<Return Time="21-08-2019 09:09:55:900">1</Return>
+	</readBemaSATFile>
+	<readBemaSATFile Time="21-08-2019 09:15:28:659">
+		<NivelLog Time="21-08-2019 09:15:28:660">1</NivelLog>
+		<Path Time="21-08-2019 09:15:28:660">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\</Path>
+		<BemaSAT_path Time="21-08-2019 09:15:28:660">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\bemasat.dll</BemaSAT_path>
+		<BemaSAT_version Time="21-08-2019 09:15:28:661">1,0,2,35</BemaSAT_version>
+		<BemaSAT_path_configuracao Time="21-08-2019 09:15:28:661">.\bemasat.xml</BemaSAT_path_configuracao>
+		<LocalizarPorta Time="21-08-2019 09:15:28:661">1</LocalizarPorta>
+		<USB_ID Time="21-08-2019 09:15:28:662">PID:0B1B_VID:0108 Nao Localizado</USB_ID>
+		<USB_ID Time="21-08-2019 09:15:28:662">PID:0525_VID:A4A7 Nao Localizado</USB_ID>
+		<Porta Time="21-08-2019 09:15:28:663">COM5</Porta>
+		<ValidarParametros Time="21-08-2019 09:15:28:664">1</ValidarParametros>
+		<Timeout_Ativacao Time="21-08-2019 09:15:28:664">600000</Timeout_Ativacao>
+		<Timeout_ICP_Brasil Time="21-08-2019 09:15:28:664">480000</Timeout_ICP_Brasil>
+		<Timeout_Consultar_SAT Time="21-08-2019 09:15:28:664">10000</Timeout_Consultar_SAT>
+		<Timeout_Associar_Assinatura Time="21-08-2019 09:15:28:665">20000</Timeout_Associar_Assinatura>
+		<Timeout_Consultar_Sessao Time="21-08-2019 09:15:28:665">30000</Timeout_Consultar_Sessao>
+		<Timeout_Trocar_Codigo_Ativacao Time="21-08-2019 09:15:28:665">20000</Timeout_Trocar_Codigo_Ativacao>
+		<Timeout_Bloquear_SAT Time="21-08-2019 09:15:28:666">300000</Timeout_Bloquear_SAT>
+		<Timeout_Desbloquear_SAT Time="21-08-2019 09:15:28:666">30000</Timeout_Desbloquear_SAT>
+		<Timeout_Extrair_Logs Time="21-08-2019 09:15:28:666">60000</Timeout_Extrair_Logs>
+		<Timeout_Atualizar_SAT Time="21-08-2019 09:15:28:667">1800000</Timeout_Atualizar_SAT>
+		<Timeout_Configurar_Rede Time="21-08-2019 09:15:28:667">30000</Timeout_Configurar_Rede>
+		<Timeout_Enviar_Venda Time="21-08-2019 09:15:28:667">60000</Timeout_Enviar_Venda>
+		<Timeout_Cancelar_Venda Time="21-08-2019 09:15:28:668">20000</Timeout_Cancelar_Venda>
+		<Timeout_Teste_Fim_a_Fim Time="21-08-2019 09:15:28:668">30000</Timeout_Teste_Fim_a_Fim>
+		<Timeout_Consultar_Status Time="21-08-2019 09:15:28:668">15000</Timeout_Consultar_Status>
+		<Timeout_intervalo_status Time="21-08-2019 09:15:28:668">1800000</Timeout_intervalo_status>
+		<resetWait Time="21-08-2019 09:15:28:669">0</resetWait>
+		<ArquivoDados Time="21-08-2019 09:15:28:669">.\bemasat.db</ArquivoDados>
+		<ExtrairLogsPeriodicos Time="21-08-2019 09:15:28:669">0</ExtrairLogsPeriodicos>
+		<Return Time="21-08-2019 09:15:28:670">1</Return>
+	</readBemaSATFile>
+	<readBemaSATFile Time="21-08-2019 09:38:18:844">
+		<NivelLog Time="21-08-2019 09:38:18:844">1</NivelLog>
+		<Path Time="21-08-2019 09:38:18:844">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\</Path>
+		<BemaSAT_path Time="21-08-2019 09:38:18:845">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\bemasat.dll</BemaSAT_path>
+		<BemaSAT_version Time="21-08-2019 09:38:18:845">1,0,2,35</BemaSAT_version>
+		<BemaSAT_path_configuracao Time="21-08-2019 09:38:18:845">.\bemasat.xml</BemaSAT_path_configuracao>
+		<LocalizarPorta Time="21-08-2019 09:38:18:846">1</LocalizarPorta>
+		<USB_ID Time="21-08-2019 09:38:18:846">PID:0B1B_VID:0108 Nao Localizado</USB_ID>
+		<USB_ID Time="21-08-2019 09:38:18:846">PID:0525_VID:A4A7 Nao Localizado</USB_ID>
+		<Porta Time="21-08-2019 09:38:18:847">COM5</Porta>
+		<ValidarParametros Time="21-08-2019 09:38:18:848">1</ValidarParametros>
+		<Timeout_Ativacao Time="21-08-2019 09:38:18:848">600000</Timeout_Ativacao>
+		<Timeout_ICP_Brasil Time="21-08-2019 09:38:18:848">480000</Timeout_ICP_Brasil>
+		<Timeout_Consultar_SAT Time="21-08-2019 09:38:18:849">10000</Timeout_Consultar_SAT>
+		<Timeout_Associar_Assinatura Time="21-08-2019 09:38:18:849">20000</Timeout_Associar_Assinatura>
+		<Timeout_Consultar_Sessao Time="21-08-2019 09:38:18:849">30000</Timeout_Consultar_Sessao>
+		<Timeout_Trocar_Codigo_Ativacao Time="21-08-2019 09:38:18:850">20000</Timeout_Trocar_Codigo_Ativacao>
+		<Timeout_Bloquear_SAT Time="21-08-2019 09:38:18:850">300000</Timeout_Bloquear_SAT>
+		<Timeout_Desbloquear_SAT Time="21-08-2019 09:38:18:850">30000</Timeout_Desbloquear_SAT>
+		<Timeout_Extrair_Logs Time="21-08-2019 09:38:18:851">60000</Timeout_Extrair_Logs>
+		<Timeout_Atualizar_SAT Time="21-08-2019 09:38:18:851">1800000</Timeout_Atualizar_SAT>
+		<Timeout_Configurar_Rede Time="21-08-2019 09:38:18:851">30000</Timeout_Configurar_Rede>
+		<Timeout_Enviar_Venda Time="21-08-2019 09:38:18:851">60000</Timeout_Enviar_Venda>
+		<Timeout_Cancelar_Venda Time="21-08-2019 09:38:18:852">20000</Timeout_Cancelar_Venda>
+		<Timeout_Teste_Fim_a_Fim Time="21-08-2019 09:38:18:852">30000</Timeout_Teste_Fim_a_Fim>
+		<Timeout_Consultar_Status Time="21-08-2019 09:38:18:852">15000</Timeout_Consultar_Status>
+		<Timeout_intervalo_status Time="21-08-2019 09:38:18:853">1800000</Timeout_intervalo_status>
+		<resetWait Time="21-08-2019 09:38:18:853">0</resetWait>
+		<ArquivoDados Time="21-08-2019 09:38:18:853">.\bemasat.db</ArquivoDados>
+		<ExtrairLogsPeriodicos Time="21-08-2019 09:38:18:853">0</ExtrairLogsPeriodicos>
+		<Return Time="21-08-2019 09:38:18:854">1</Return>
+	</readBemaSATFile>
+	<ConsultarSAT Time="21-08-2019 09:38:19:141">
+		<numeroSessao Time="21-08-2019 09:38:19:142">881068</numeroSessao>
+		<Return Time="21-08-2019 09:38:19:830">881068|08000|SAT em operação||</Return>
+	</ConsultarSAT>
+	<ConsultarStatusOperacional Time="21-08-2019 09:38:22:027">
+		<numeroSessao Time="21-08-2019 09:38:22:027">871273</numeroSessao>
+		<codigoDeAtivacao Time="21-08-2019 09:38:22:027">bema1234</codigoDeAtivacao>
+		<Return Time="21-08-2019 09:38:22:758">871273|10000|Resposta com Sucesso|||900015992|DHCP|192.168.000.006|00:07:25:16:5E:13|255.255.255.000|192.168.000.001|209.244.000.003|209.244.000.002|CONECTADO|ALTO|1870127104|1051607040|20190821093823|!V02.01.00-17|0.07|41190882373077000171599000159920007739586278|00000000000000000000000000000000000000000000|00000000000000000000000000000000000000000000|20190816142105|20190821080344|20180822|20230821|0</Return>
+	</ConsultarStatusOperacional>
+	<EnviarDadosVenda Time="21-08-2019 09:38:33:221">
+		<numeroSessao Time="21-08-2019 09:38:33:221">885553</numeroSessao>
+		<codigoDeAtivacao Time="21-08-2019 09:38:33:222">bema1234</codigoDeAtivacao>
+		<dadosVenda Time="21-08-2019 09:38:33:222"><CFe><infCFe versaoDadosEnt="0.07"><ide><CNPJ>16716114000172</CNPJ><signAC>SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT</signAC><numeroCaixa>001</numeroCaixa></ide><emit><CNPJ>82373077000171</CNPJ><IE>111111111111</IE><indRatISSQN>N</indRatISSQN></emit><dest></dest><det nItem="1"><prod><cProd>228</cProd><xProd>EXTRA</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>1.14</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>0.35</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><det nItem="2"><prod><cProd>0000</cProd><xProd>Servico</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>0.12</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>0.04</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><total><vCFeLei12741>0.04</vCFeLei12741></total><pgto><MP><cMP>03</cMP><vMP>1.27</vMP></MP></pgto><infAdic><infCpl>SEQUENCIA: 13</infCpl></infAdic></infCFe></CFe>
+</dadosVenda>
+		<Return Time="21-08-2019 09:38:34:677">885553|06000|0000|Emitido com sucesso + conteúdo notas|||PENGZT48aW5mQ0ZlIElkPSJDRmU0MTE5MDg4MjM3MzA3NzAwMDE3MTU5OTAwMDE1OTkyMDAwNzc0OTY3NDM1OCIgdmVyc2FvPSIwLjA3IiB2ZXJzYW9EYWRvc0VudD0iMC4wNyIgdmVyc2FvU0I9IjAyMDEwMCI+PGlkZT48Y1VGPjQxPC9jVUY+PGNORj45Njc0MzU8L2NORj48bW9kPjU5PC9tb2Q+PG5zZXJpZVNBVD45MDAwMTU5OTI8L25zZXJpZVNBVD48bkNGZT4wMDA3NzQ8L25DRmU+PGRFbWk+MjAxOTA4MjE8L2RFbWk+PGhFbWk+MDkzODM0PC9oRW1pPjxjRFY+ODwvY0RWPjx0cEFtYj4yPC90cEFtYj48Q05QSj4xNjcxNjExNDAwMDE3MjwvQ05QSj48c2lnbkFDPlNHUi1TQVQgU0lTVEVNQSBERSBHRVNUQU8gRSBSRVRBR1VBUkRBIERPIFNBVDwvc2lnbkFDPjxhc3NpbmF0dXJhUVJDT0RFPlRYWnpWS2dneHIrakxkVGJrQzkybFhDNitwZWxsM21VNTJKWE5kRllkcG10YUFSR3hKNUVGWU01VjF1aHNQeDl6Y0ZPbHFvQVl2ZUZycHhLUWl3eWsxdGRqNGZkUW9YMWNWeTNndmNJaUdzNDNaRDhDcjA3WTJYQkF1QjRBRWl0TU83MWtVYjRDdzRMZ3dDeFEyeENrRm5yT0Q4Y0Z4Mkx2eUcvZnI4YmR4WE95a0pXVW81MlllbHJhbS9Ec2pTeWFnY0pXS1RoQU55VURiTVpEZjNydFFvYXZ4Z2NFZWRLeElWVTluMzlqK3RJTHlNcURrZEFpWnUyaUgwRG50d3JiRFVHY3hTeWNPUTdWS0FrM3NKUUxiN2lKdi8vYlBTQlczRVRJMWJmakg3Y1JsTXg0SCtIN2kwd2lOOE9lNTJHM2htSVVjWHYxVzkwTXVjSDlvWFR1UT09PC9hc3NpbmF0dXJhUVJDT0RFPjxudW1lcm9DYWl4YT4wMDE8L251bWVyb0NhaXhhPjwvaWRlPjxlbWl0PjxDTlBKPjgyMzczMDc3MDAwMTcxPC9DTlBKPjx4Tm9tZT5CRU1BVEVDSCBTLkE8L3hOb21lPjxlbmRlckVtaXQ+PHhMZ3I+QVZFTklEQSBSVUkgQkFSQk9TQTwveExncj48bnJvPjI1Mjk8L25ybz48eENwbD46IE1PRFVMT1MgMDYgMDcgRSAwODs8L3hDcGw+PHhCYWlycm8+SVBFPC94QmFpcnJvPjx4TXVuPlNBTyBKT1NFIERPUyBQSU5IQUlTPC94TXVuPjxDRVA+ODMwNTUzMjA8L0NFUD48L2VuZGVyRW1pdD48SUU+MTExMTExMTExMTExPC9JRT48Y1JlZ1RyaWI+MTwvY1JlZ1RyaWI+PGluZFJhdElTU1FOPk48L2luZFJhdElTU1FOPjwvZW1pdD48ZGVzdD48Q1BGPjwvQ1BGPjwvZGVzdD48ZGV0IG5JdGVtPSIxIj48cHJvZD48Y1Byb2Q+MjI4PC9jUHJvZD48eFByb2Q+RVhUUkE8L3hQcm9kPjxOQ00+MjEwNjkwOTA8L05DTT48Q0ZPUD41MTAyPC9DRk9QPjx1Q29tPlVOPC91Q29tPjxxQ29tPjEuMDAwMDwvcUNvbT48dlVuQ29tPjEuMTQ8L3ZVbkNvbT48dlByb2Q+MS4xNDwvdlByb2Q+PGluZFJlZ3JhPkE8L2luZFJlZ3JhPjx2SXRlbT4xLjE0PC92SXRlbT48L3Byb2Q+PGltcG9zdG8+PHZJdGVtMTI3NDE+MC4zNTwvdkl0ZW0xMjc0MT48SUNNUz48SUNNUzAwPjxPcmlnPjA8L09yaWc+PENTVD4wMDwvQ1NUPjxwSUNNUz4wLjAwPC9wSUNNUz48dklDTVM+MC4wMDwvdklDTVM+PC9JQ01TMDA+PC9JQ01TPjxQSVM+PFBJU05UPjxDU1Q+MDQ8L0NTVD48L1BJU05UPjwvUElTPjxDT0ZJTlM+PENPRklOU05UPjxDU1Q+MDQ8L0NTVD48L0NPRklOU05UPjwvQ09GSU5TPjwvaW1wb3N0bz48L2RldD48ZGV0IG5JdGVtPSIyIj48cHJvZD48Y1Byb2Q+MDAwMDwvY1Byb2Q+PHhQcm9kPlNlcnZpY288L3hQcm9kPjxOQ00+MjEwNjkwOTA8L05DTT48Q0ZPUD41MTAyPC9DRk9QPjx1Q29tPlVOPC91Q29tPjxxQ29tPjEuMDAwMDwvcUNvbT48dlVuQ29tPjAuMTI8L3ZVbkNvbT48dlByb2Q+MC4xMjwvdlByb2Q+PGluZFJlZ3JhPkE8L2luZFJlZ3JhPjx2SXRlbT4wLjEyPC92SXRlbT48L3Byb2Q+PGltcG9zdG8+PHZJdGVtMTI3NDE+MC4wNDwvdkl0ZW0xMjc0MT48SUNNUz48SUNNUzAwPjxPcmlnPjA8L09yaWc+PENTVD4wMDwvQ1NUPjxwSUNNUz4wLjAwPC9wSUNNUz48dklDTVM+MC4wMDwvdklDTVM+PC9JQ01TMDA+PC9JQ01TPjxQSVM+PFBJU05UPjxDU1Q+MDQ8L0NTVD48L1BJU05UPjwvUElTPjxDT0ZJTlM+PENPRklOU05UPjxDU1Q+MDQ8L0NTVD48L0NPRklOU05UPjwvQ09GSU5TPjwvaW1wb3N0bz48L2RldD48dG90YWw+PElDTVNUb3Q+PHZJQ01TPjAuMDA8L3ZJQ01TPjx2UHJvZD4xLjI2PC92UHJvZD48dkRlc2M+MC4wMDwvdkRlc2M+PHZQSVM+MC4wMDwvdlBJUz48dkNPRklOUz4wLjAwPC92Q09GSU5TPjx2UElTU1Q+MC4wMDwvdlBJU1NUPjx2Q09GSU5TU1Q+MC4wMDwvdkNPRklOU1NUPjx2T3V0cm8+MC4wMDwvdk91dHJvPjwvSUNNU1RvdD48dkNGZT4xLjI2PC92Q0ZlPjx2Q0ZlTGVpMTI3NDE+MC4wNDwvdkNGZUxlaTEyNzQxPjwvdG90YWw+PHBndG8+PE1QPjxjTVA+MDM8L2NNUD48dk1QPjEuMjc8L3ZNUD48L01QPjx2VHJvY28+MC4wMTwvdlRyb2NvPjwvcGd0bz48aW5mQWRpYz48aW5mQ3BsPlNFUVVFTkNJQTogMTM8L2luZkNwbD48b2JzRmlzY28geENhbXBvPSIwNC4wNC4wNS4wNCI+PHhUZXh0bz5Db21ldGUgY3JpbWUgcXVlbSBzb25lZ2E8L3hUZXh0bz48L29ic0Zpc2NvPjwvaW5mQWRpYz48L2luZkNGZT48U2lnbmF0dXJlIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjIj48U2lnbmVkSW5mbyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnIyI+PENhbm9uaWNhbGl6YXRpb25NZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy14bWwtYzE0bi0yMDAxMDMxNSI+PC9DYW5vbmljYWxpemF0aW9uTWV0aG9kPjxTaWduYXR1cmVNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNyc2Etc2hhMjU2Ij48L1NpZ25hdHVyZU1ldGhvZD48UmVmZXJlbmNlIFVSST0iI0NGZTQxMTkwODgyMzczMDc3MDAwMTcxNTk5MDAwMTU5OTIwMDA3NzQ5Njc0MzU4Ij48VHJhbnNmb3Jtcz48VHJhbnNmb3JtIEFsZ29yaXRobT0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnI2VudmVsb3BlZC1zaWduYXR1cmUiPjwvVHJhbnNmb3JtPjxUcmFuc2Zvcm0gQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy14bWwtYzE0bi0yMDAxMDMxNSI+PC9UcmFuc2Zvcm0+PC9UcmFuc2Zvcm1zPjxEaWdlc3RNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGVuYyNzaGEyNTYiPjwvRGlnZXN0TWV0aG9kPjxEaWdlc3RWYWx1ZT55QjI4TjZSWTlVZzc4TVRramRCTzdJTDJOM3M2SjBiNW5ES1NHR0tFWEFrPTwvRGlnZXN0VmFsdWU+PC9SZWZlcmVuY2U+PC9TaWduZWRJbmZvPjxTaWduYXR1cmVWYWx1ZT5Xc0xzS1FjaTBXL2FFRnkrNEE5ZldkK1MyVTZsNDFKWkhGdVY3N3p3RVhpVG12cFNYSmxPMHRDUFNUMS9oS204Y2s0RHU4Z3dyelJERlo4YXJ1MWRJV25MQzFxMUxJYkpqQlhldnc0R0FTV1Z4UDZtK0l4YVpYRHVzL3YzVWdtaFUvRFgwdXk3NzR2bSsxNWpQZ0w1RXFlTWV5U2xJbTJrNDZoQ0dGUDUrOUk1Z3E2ZCtzWnYxTnlMU0FaMW9iUGRsbUpITjZxL1VNS201QS80RHZuTGdtcEJKUEduS2xvQU1XWks2Slo4RUY4ZFFJL3FqbjcvVXRHaFpIVWRYV01YZ3VTbFdtNWRZM2JsaHo2Q2tldlVaK0JVZHk5OVRVbG9NVlp2WU5aUVltYWJkN3NkZFpyQmQrSTNaTzJ5YityWS9WdUtybWQvUTE1L1dBSERRbDZvSHc9PTwvU2lnbmF0dXJlVmFsdWU+PEtleUluZm8+PFg1MDlEYXRhPjxYNTA5Q2VydGlmaWNhdGU+TUlJRnRqQ0NCSjZnQXdJQkFnSUNHcFl3RFFZSktvWklodmNOQVFFTkJRQXdhREVMTUFrR0ExVUVCaE1DUWxJeEVqQVFCZ05WQkFnTUNWTkJUeUJRUVZWTVR6RVNNQkFHQTFVRUJ3d0pVMEZQSUZCQlZVeFBNUTh3RFFZRFZRUUtEQVpCUTBaVlUxQXhEekFOQmdOVkJBc01Ca0ZEUmxWVFVERVBNQTBHQTFVRUF3d0dRVU5HVlZOUU1CNFhEVEU0TURneU1qRTJNekl6T0ZvWERUSXpNRGd5TVRFMk16SXpPRm93Z1pzeEN6QUpCZ05WQkFZVEFrSlNNUTh3RFFZRFZRUUlEQVpRWVhKaGJtRXhFVEFQQmdOVkJBb01DRk5GUmtGYUxWTlFNU2d3SmdZRFZRUUxFeDlCZFhSdmNtbGtZV1JsSUdSbElGSmxaMmx6ZEhKdklGTkZSa0ZhSUZOUU1SZ3dGZ1lEVlFRTEV3OUJReUJUUVZRZ1UwVkdRVm9nVTFBeEpEQWlCZ05WQkFNTUcwSkZUVUZVUlVOSUlGTXVRVG80TWpNM016QTNOekF3TURFM01UQ0NBU0l3RFFZSktvWklodmNOQVFFQkJRQURnZ0VQQURDQ0FRb0NnZ0VCQUpZSWZPaGtrUGtBMGlwa0JOekJXZkhXVlA0SENwU3RtTkVqUHlvbVdqOVhURjRUZHBnd3JaQ2pSM2QyOHQ4eDVZdmFIOU1mdThWYzU1bG91RVNpbitTTXNobVFRWWl2aDd6MktRSDBxS2lHaFdHYm5iSzA2UlFlcXY0YVBpQjlhbVpOWjBBOVBqYlhkM1FhRDduNTdWSjVHRzdVdWNxV0dmZHFrRGxDQmR1RkY2eGNVb1NtcFpxcWYwR2hLSlVycGsvZE5mUkE2MXV6NHhaWVdyZWlEeVJPSVBSaTVvYXdRS1FIdEVCcjdYZFRsNHVmT2V6S0dTV1lNTWJZRWpWc25jSnlNdnIyWDVOZWwxSi96OThPcXVEeWxUS2N5cldCZnR5Q08yeGoyMVlBZFdIK3ZVV3hoNEsxdC9SRUZCRFRqNElsMHRURldJTURyVVJuRk1qNWZWTUNBd0VBQWFPQ0FqUXdnZ0l3TUFrR0ExVWRFd1FDTUFBd0RnWURWUjBQQVFIL0JBUURBZ1hnTUN3R0NXQ0dTQUdHK0VJQkRRUWZGaDFQY0dWdVUxTk1JRWRsYm1WeVlYUmxaQ0JEWlhKMGFXWnBZMkYwWlRBZEJnTlZIUTRFRmdRVWRHV1ZHd3ZzeHVpK0lIN2FLSmFBclNmVjQ4QXdId1lEVlIwakJCZ3dGb0FVRmJUamtZWWtMT296VHdVZUxTK1R0MGlYeDNnd0V3WURWUjBsQkF3d0NnWUlLd1lCQlFVSEF3SXdRd1lEVlIwZkJEd3dPakE0b0RhZ05JWXlhSFIwY0RvdkwyRmpjMkYwTG1aaGVtVnVaR0V1YzNBdVoyOTJMbUp5TDJGamMyRjBjMlZtWVhwemNHTnliQzVqY213d2dhY0dDQ3NHQVFVRkJ3RUJCSUdhTUlHWE1EVUdDQ3NHQVFVRkJ6QUJoaWxvZEhSd09pOHZiMk56Y0Mxd2FXeHZkQzVwYlhCeVpXNXpZVzltYVdOcFlXd3VZMjl0TG1KeUx6QmVCZ2dyQmdFRkJRY3dBb1pTYUhSMGNEb3ZMMkZqYzJGMExYUmxjM1JsTG1sdGNISmxibk5oYjJacFkybGhiQzVqYjIwdVluSXZjbVZ3YjNOcGRHOXlhVzh2WTJWeWRHbG1hV05oWkc5ekwyRmpjMkYwTFhSbGMzUmxMbkEzWXpCN0JnTlZIU0FFZERCeU1IQUdDU3NHQVFRQmdld3RBekJqTUdFR0NDc0dBUVVGQndJQkZsVm9kSFJ3T2k4dllXTnpZWFF1YVcxd2NtVnVjMkZ2Wm1samFXRnNMbU52YlM1aWNpOXlaWEJ2YzJsMGIzSnBieTlrY0dNdllXTnpZWFJ6WldaaGVuTndMMlJ3WTE5aFkzTmhkSE5sWm1GNmMzQXVjR1JtTUNRR0ExVWRFUVFkTUJ1Z0dRWUZZRXdCQXdPZ0VBd09PREl6TnpNd056Y3dNREF4TnpFd0RRWUpLb1pJaHZjTkFRRU5CUUFEZ2dFQkFMdlNPbEVmbzBvZVRjRHRQS2phalhOaWRER202ZXo3eEl2M1diemxPVHJPUEV4RWJjY2tEVm5BZTM2YzZ0aVZ2WlVqVnVHaFl5bkttMUNFT3E3UGFLOUgyYlpxUzFWdFZOTHZkVSszVHZ2enNyV3VpSUpZaElzdjQ3b1NWK3BnUURBTXd1OUl0QVFVYm95U0d5aGgxMWNBcnJaRDhsK2hpRmNXbTgwUTRzbWIxMit2dHFnemcxRHZhQ2dVZTJxaWNnaVkxbVF5b1FyZS9iYWJYMGRtQ0lIOVNNVEdrNWl0ak1VN3lEdnVFTVpCbFlPdEVacEsxUFRCSmNiTGhaQ01xU1h3SWlTY0RZdVVwcTUybk03WHVZVzUzY0NzU3NyVk8zVGFJME85WWp4Vk9NT3FnUEswZnVhWWRDZi8vS2NSNnByUmhnZmRBM2UzaVh1VHJxZFdxLzQ9PC9YNTA5Q2VydGlmaWNhdGU+PC9YNTA5RGF0YT48L0tleUluZm8+PC9TaWduYXR1cmU+PC9DRmU+|20190821093834|CFe41190882373077000171599000159920007749674358|1.26||TXZzVKggxr+jLdTbkC92lXC6+pell3mU52JXNdFYdpmtaARGxJ5EFYM5V1uhsPx9zcFOlqoAYveFrpxKQiwyk1tdj4fdQoX1cVy3gvcIiGs43ZD8Cr07Y2XBAuB4AEitMO71kUb4Cw4LgwCxQ2xCkFnrOD8cFx2LvyG/fr8bdxXOykJWUo52Yelram/DsjSyagcJWKThANyUDbMZDf3rtQoavxgcEedKxIVU9n39j+tILyMqDkdAiZu2iH0DntwrbDUGcxSycOQ7VKAk3sJQLb7iJv//bPSBW3ETI1bfjH7cRlMx4H+H7i0wiN8Oe52G3hmIUcXv1W90MucH9oXTuQ==</Return>
+	</EnviarDadosVenda>
+	<readBemaSATFile Time="21-08-2019 09:46:00:313">
+		<NivelLog Time="21-08-2019 09:46:00:313">1</NivelLog>
+		<Path Time="21-08-2019 09:46:00:314">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\</Path>
+		<BemaSAT_path Time="21-08-2019 09:46:00:314">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\bemasat.dll</BemaSAT_path>
+		<BemaSAT_version Time="21-08-2019 09:46:00:315">1,0,2,35</BemaSAT_version>
+		<BemaSAT_path_configuracao Time="21-08-2019 09:46:00:315">.\bemasat.xml</BemaSAT_path_configuracao>
+		<LocalizarPorta Time="21-08-2019 09:46:00:315">1</LocalizarPorta>
+		<USB_ID Time="21-08-2019 09:46:00:316">PID:0B1B_VID:0108 Nao Localizado</USB_ID>
+		<USB_ID Time="21-08-2019 09:46:00:316">PID:0525_VID:A4A7 Nao Localizado</USB_ID>
+		<Porta Time="21-08-2019 09:46:00:317">COM5</Porta>
+		<ValidarParametros Time="21-08-2019 09:46:00:318">1</ValidarParametros>
+		<Timeout_Ativacao Time="21-08-2019 09:46:00:318">600000</Timeout_Ativacao>
+		<Timeout_ICP_Brasil Time="21-08-2019 09:46:00:318">480000</Timeout_ICP_Brasil>
+		<Timeout_Consultar_SAT Time="21-08-2019 09:46:00:319">10000</Timeout_Consultar_SAT>
+		<Timeout_Associar_Assinatura Time="21-08-2019 09:46:00:319">20000</Timeout_Associar_Assinatura>
+		<Timeout_Consultar_Sessao Time="21-08-2019 09:46:00:319">30000</Timeout_Consultar_Sessao>
+		<Timeout_Trocar_Codigo_Ativacao Time="21-08-2019 09:46:00:319">20000</Timeout_Trocar_Codigo_Ativacao>
+		<Timeout_Bloquear_SAT Time="21-08-2019 09:46:00:320">300000</Timeout_Bloquear_SAT>
+		<Timeout_Desbloquear_SAT Time="21-08-2019 09:46:00:320">30000</Timeout_Desbloquear_SAT>
+		<Timeout_Extrair_Logs Time="21-08-2019 09:46:00:320">60000</Timeout_Extrair_Logs>
+		<Timeout_Atualizar_SAT Time="21-08-2019 09:46:00:321">1800000</Timeout_Atualizar_SAT>
+		<Timeout_Configurar_Rede Time="21-08-2019 09:46:00:321">30000</Timeout_Configurar_Rede>
+		<Timeout_Enviar_Venda Time="21-08-2019 09:46:00:321">60000</Timeout_Enviar_Venda>
+		<Timeout_Cancelar_Venda Time="21-08-2019 09:46:00:321">20000</Timeout_Cancelar_Venda>
+		<Timeout_Teste_Fim_a_Fim Time="21-08-2019 09:46:00:322">30000</Timeout_Teste_Fim_a_Fim>
+		<Timeout_Consultar_Status Time="21-08-2019 09:46:00:322">15000</Timeout_Consultar_Status>
+		<Timeout_intervalo_status Time="21-08-2019 09:46:00:322">1800000</Timeout_intervalo_status>
+		<resetWait Time="21-08-2019 09:46:00:323">0</resetWait>
+		<ArquivoDados Time="21-08-2019 09:46:00:323">.\bemasat.db</ArquivoDados>
+		<ExtrairLogsPeriodicos Time="21-08-2019 09:46:00:323">0</ExtrairLogsPeriodicos>
+		<Return Time="21-08-2019 09:46:00:323">1</Return>
+	</readBemaSATFile>
+	<EnviarDadosVenda Time="21-08-2019 09:46:00:332">
+		<numeroSessao Time="21-08-2019 09:46:00:332">992264</numeroSessao>
+		<codigoDeAtivacao Time="21-08-2019 09:46:00:333">bema1234</codigoDeAtivacao>
+		<dadosVenda Time="21-08-2019 09:46:00:333"><CFe><infCFe versaoDadosEnt="0.07"><ide><CNPJ>16716114000172</CNPJ><signAC>SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT</signAC><numeroCaixa>001</numeroCaixa></ide><emit><CNPJ>82373077000171</CNPJ><IE>111111111111</IE><indRatISSQN>N</indRatISSQN></emit><dest></dest><det nItem="1"><prod><cProd>228</cProd><xProd>EXTRA</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>1.15</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>0.35</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><det nItem="2"><prod><cProd>0000</cProd><xProd>Servico</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>0.12</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>0.04</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><total><vCFeLei12741>0.04</vCFeLei12741></total><pgto><MP><cMP>03</cMP><vMP>1.27</vMP></MP></pgto><infAdic><infCpl>SEQUENCIA: 7</infCpl></infAdic></infCFe></CFe>
+</dadosVenda>
+		<Return Time="21-08-2019 09:46:01:858">992264|06000|0000|Emitido com sucesso + conteúdo notas|||PENGZT48aW5mQ0ZlIElkPSJDRmU0MTE5MDg4MjM3MzA3NzAwMDE3MTU5OTAwMDE1OTkyMDAwNzc1NzE5NjcwMiIgdmVyc2FvPSIwLjA3IiB2ZXJzYW9EYWRvc0VudD0iMC4wNyIgdmVyc2FvU0I9IjAyMDEwMCI+PGlkZT48Y1VGPjQxPC9jVUY+PGNORj43MTk2NzA8L2NORj48bW9kPjU5PC9tb2Q+PG5zZXJpZVNBVD45MDAwMTU5OTI8L25zZXJpZVNBVD48bkNGZT4wMDA3NzU8L25DRmU+PGRFbWk+MjAxOTA4MjE8L2RFbWk+PGhFbWk+MDk0NjAxPC9oRW1pPjxjRFY+MjwvY0RWPjx0cEFtYj4yPC90cEFtYj48Q05QSj4xNjcxNjExNDAwMDE3MjwvQ05QSj48c2lnbkFDPlNHUi1TQVQgU0lTVEVNQSBERSBHRVNUQU8gRSBSRVRBR1VBUkRBIERPIFNBVDwvc2lnbkFDPjxhc3NpbmF0dXJhUVJDT0RFPmZ2NjdkYkxyUDJyYkQ4RHYrbWluZ3JSeWxSUXpXVEQ2bitVaCszaXdPdFZXRmNaQ3l4dVFJZXZoNS9USGFpbXNPVDdrbFF3czhMRW5iWG8ycWd1WWYwOVc1a1luMFE4VHRzQUxReEEvME1VZTlQMUd4UXJuQmU5WnlPUjNvM2pDL0tza3hQcGUrek5qS1dTL2dHejcrVkpTSTFuUmJkMlBBeXpzdW5RSk9wVExoa1BJdUZzOURvOEpkMXlyYnpiTzJ1NndPd3A2L1BBdy9RR0JYRlVVTWdiZjNGdjVOSUlVM3RKRm50YTg3azBqRkozWElMUlZwN0lVTkNzRFZ5YnhkcDJBclNJTXJrNURnbS9lZHhQdSttZjFqYzB5QzY4Q3VvR1c2dWFycTYrVkNXYmVpWThqbDA4U3Y4V3ZBRWtzTWdsem1Gbi9JSTVIYUt1c3JleFcwQT09PC9hc3NpbmF0dXJhUVJDT0RFPjxudW1lcm9DYWl4YT4wMDE8L251bWVyb0NhaXhhPjwvaWRlPjxlbWl0PjxDTlBKPjgyMzczMDc3MDAwMTcxPC9DTlBKPjx4Tm9tZT5CRU1BVEVDSCBTLkE8L3hOb21lPjxlbmRlckVtaXQ+PHhMZ3I+QVZFTklEQSBSVUkgQkFSQk9TQTwveExncj48bnJvPjI1Mjk8L25ybz48eENwbD46IE1PRFVMT1MgMDYgMDcgRSAwODs8L3hDcGw+PHhCYWlycm8+SVBFPC94QmFpcnJvPjx4TXVuPlNBTyBKT1NFIERPUyBQSU5IQUlTPC94TXVuPjxDRVA+ODMwNTUzMjA8L0NFUD48L2VuZGVyRW1pdD48SUU+MTExMTExMTExMTExPC9JRT48Y1JlZ1RyaWI+MTwvY1JlZ1RyaWI+PGluZFJhdElTU1FOPk48L2luZFJhdElTU1FOPjwvZW1pdD48ZGVzdD48Q1BGPjwvQ1BGPjwvZGVzdD48ZGV0IG5JdGVtPSIxIj48cHJvZD48Y1Byb2Q+MjI4PC9jUHJvZD48eFByb2Q+RVhUUkE8L3hQcm9kPjxOQ00+MjEwNjkwOTA8L05DTT48Q0ZPUD41MTAyPC9DRk9QPjx1Q29tPlVOPC91Q29tPjxxQ29tPjEuMDAwMDwvcUNvbT48dlVuQ29tPjEuMTU8L3ZVbkNvbT48dlByb2Q+MS4xNTwvdlByb2Q+PGluZFJlZ3JhPkE8L2luZFJlZ3JhPjx2SXRlbT4xLjE1PC92SXRlbT48L3Byb2Q+PGltcG9zdG8+PHZJdGVtMTI3NDE+MC4zNTwvdkl0ZW0xMjc0MT48SUNNUz48SUNNUzAwPjxPcmlnPjA8L09yaWc+PENTVD4wMDwvQ1NUPjxwSUNNUz4wLjAwPC9wSUNNUz48dklDTVM+MC4wMDwvdklDTVM+PC9JQ01TMDA+PC9JQ01TPjxQSVM+PFBJU05UPjxDU1Q+MDQ8L0NTVD48L1BJU05UPjwvUElTPjxDT0ZJTlM+PENPRklOU05UPjxDU1Q+MDQ8L0NTVD48L0NPRklOU05UPjwvQ09GSU5TPjwvaW1wb3N0bz48L2RldD48ZGV0IG5JdGVtPSIyIj48cHJvZD48Y1Byb2Q+MDAwMDwvY1Byb2Q+PHhQcm9kPlNlcnZpY288L3hQcm9kPjxOQ00+MjEwNjkwOTA8L05DTT48Q0ZPUD41MTAyPC9DRk9QPjx1Q29tPlVOPC91Q29tPjxxQ29tPjEuMDAwMDwvcUNvbT48dlVuQ29tPjAuMTI8L3ZVbkNvbT48dlByb2Q+MC4xMjwvdlByb2Q+PGluZFJlZ3JhPkE8L2luZFJlZ3JhPjx2SXRlbT4wLjEyPC92SXRlbT48L3Byb2Q+PGltcG9zdG8+PHZJdGVtMTI3NDE+MC4wNDwvdkl0ZW0xMjc0MT48SUNNUz48SUNNUzAwPjxPcmlnPjA8L09yaWc+PENTVD4wMDwvQ1NUPjxwSUNNUz4wLjAwPC9wSUNNUz48dklDTVM+MC4wMDwvdklDTVM+PC9JQ01TMDA+PC9JQ01TPjxQSVM+PFBJU05UPjxDU1Q+MDQ8L0NTVD48L1BJU05UPjwvUElTPjxDT0ZJTlM+PENPRklOU05UPjxDU1Q+MDQ8L0NTVD48L0NPRklOU05UPjwvQ09GSU5TPjwvaW1wb3N0bz48L2RldD48dG90YWw+PElDTVNUb3Q+PHZJQ01TPjAuMDA8L3ZJQ01TPjx2UHJvZD4xLjI3PC92UHJvZD48dkRlc2M+MC4wMDwvdkRlc2M+PHZQSVM+MC4wMDwvdlBJUz48dkNPRklOUz4wLjAwPC92Q09GSU5TPjx2UElTU1Q+MC4wMDwvdlBJU1NUPjx2Q09GSU5TU1Q+MC4wMDwvdkNPRklOU1NUPjx2T3V0cm8+MC4wMDwvdk91dHJvPjwvSUNNU1RvdD48dkNGZT4xLjI3PC92Q0ZlPjx2Q0ZlTGVpMTI3NDE+MC4wNDwvdkNGZUxlaTEyNzQxPjwvdG90YWw+PHBndG8+PE1QPjxjTVA+MDM8L2NNUD48dk1QPjEuMjc8L3ZNUD48L01QPjx2VHJvY28+MC4wMDwvdlRyb2NvPjwvcGd0bz48aW5mQWRpYz48aW5mQ3BsPlNFUVVFTkNJQTogNzwvaW5mQ3BsPjxvYnNGaXNjbyB4Q2FtcG89IjA0LjA0LjA1LjA0Ij48eFRleHRvPkNvbWV0ZSBjcmltZSBxdWVtIHNvbmVnYTwveFRleHRvPjwvb2JzRmlzY28+PC9pbmZBZGljPjwvaW5mQ0ZlPjxTaWduYXR1cmUgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvMDkveG1sZHNpZyMiPjxTaWduZWRJbmZvIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjIj48Q2Fub25pY2FsaXphdGlvbk1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnL1RSLzIwMDEvUkVDLXhtbC1jMTRuLTIwMDEwMzE1Ij48L0Nhbm9uaWNhbGl6YXRpb25NZXRob2Q+PFNpZ25hdHVyZU1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvMDQveG1sZHNpZy1tb3JlI3JzYS1zaGEyNTYiPjwvU2lnbmF0dXJlTWV0aG9kPjxSZWZlcmVuY2UgVVJJPSIjQ0ZlNDExOTA4ODIzNzMwNzcwMDAxNzE1OTkwMDAxNTk5MjAwMDc3NTcxOTY3MDIiPjxUcmFuc2Zvcm1zPjxUcmFuc2Zvcm0gQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjZW52ZWxvcGVkLXNpZ25hdHVyZSI+PC9UcmFuc2Zvcm0+PFRyYW5zZm9ybSBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnL1RSLzIwMDEvUkVDLXhtbC1jMTRuLTIwMDEwMzE1Ij48L1RyYW5zZm9ybT48L1RyYW5zZm9ybXM+PERpZ2VzdE1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvMDQveG1sZW5jI3NoYTI1NiI+PC9EaWdlc3RNZXRob2Q+PERpZ2VzdFZhbHVlPnZOSHYxUzdnNEdUWVM3SEliQ0hhVEFBWE5uZ2NsSDNQVlVTT0VjOG9STVE9PC9EaWdlc3RWYWx1ZT48L1JlZmVyZW5jZT48L1NpZ25lZEluZm8+PFNpZ25hdHVyZVZhbHVlPmR2cFNJaGJhWWI1T2lPdG11Z0daTGVZQzR1MnY4RTFpaDhnQUVveVpxblNIRHJod2dOWE5jam54aEQvYzJMQkpWUHVEOEhnN2hPd3hxNjcxVDlBTGRaT3hoQkZoakxEdkZ2dXVSZjBsZnRNNDlaZkZjV1kzRmxnSllVeFcwNjBpa2sxbkhoRWdNOW5ReWh3V2Q2T3hSMWVVU0JrYmt1MlZmOTVBZ1lmQzlXS3pWWGpJRDRwMGdmTitPMG9GWHJPMHJPNUhRS0F5VWE2VnkrQ0dONGkxSlVLTzcveVc4TDh1V0UyMks0V2dlUDRrbjNWY1U3d1dNRHNWT0dvWS9GWkk0ZVY3UjBhb0Fsb0p1VjlHWjNXRFJHaWVRMHZsZitCUWZES0I4MEZ4UHV3ZDBjZUtFQUxTcUU4V0RqSHFHQjhuTGR0QXNzbmtmb3ducjc3Zm9RaWdsdz09PC9TaWduYXR1cmVWYWx1ZT48S2V5SW5mbz48WDUwOURhdGE+PFg1MDlDZXJ0aWZpY2F0ZT5NSUlGdGpDQ0JKNmdBd0lCQWdJQ0dwWXdEUVlKS29aSWh2Y05BUUVOQlFBd2FERUxNQWtHQTFVRUJoTUNRbEl4RWpBUUJnTlZCQWdNQ1ZOQlR5QlFRVlZNVHpFU01CQUdBMVVFQnd3SlUwRlBJRkJCVlV4UE1ROHdEUVlEVlFRS0RBWkJRMFpWVTFBeER6QU5CZ05WQkFzTUJrRkRSbFZUVURFUE1BMEdBMVVFQXd3R1FVTkdWVk5RTUI0WERURTRNRGd5TWpFMk16SXpPRm9YRFRJek1EZ3lNVEUyTXpJek9Gb3dnWnN4Q3pBSkJnTlZCQVlUQWtKU01ROHdEUVlEVlFRSURBWlFZWEpoYm1FeEVUQVBCZ05WQkFvTUNGTkZSa0ZhTFZOUU1TZ3dKZ1lEVlFRTEV4OUJkWFJ2Y21sa1lXUmxJR1JsSUZKbFoybHpkSEp2SUZORlJrRmFJRk5RTVJnd0ZnWURWUVFMRXc5QlF5QlRRVlFnVTBWR1FWb2dVMUF4SkRBaUJnTlZCQU1NRzBKRlRVRlVSVU5JSUZNdVFUbzRNak0zTXpBM056QXdNREUzTVRDQ0FTSXdEUVlKS29aSWh2Y05BUUVCQlFBRGdnRVBBRENDQVFvQ2dnRUJBSllJZk9oa2tQa0EwaXBrQk56QldmSFdWUDRIQ3BTdG1ORWpQeW9tV2o5WFRGNFRkcGd3clpDalIzZDI4dDh4NVl2YUg5TWZ1OFZjNTVsb3VFU2luK1NNc2htUVFZaXZoN3oyS1FIMHFLaUdoV0dibmJLMDZSUWVxdjRhUGlCOWFtWk5aMEE5UGpiWGQzUWFEN241N1ZKNUdHN1V1Y3FXR2ZkcWtEbENCZHVGRjZ4Y1VvU21wWnFxZjBHaEtKVXJway9kTmZSQTYxdXo0eFpZV3JlaUR5Uk9JUFJpNW9hd1FLUUh0RUJyN1hkVGw0dWZPZXpLR1NXWU1NYllFalZzbmNKeU12cjJYNU5lbDFKL3o5OE9xdUR5bFRLY3lyV0JmdHlDTzJ4ajIxWUFkV0grdlVXeGg0SzF0L1JFRkJEVGo0SWwwdFRGV0lNRHJVUm5GTWo1ZlZNQ0F3RUFBYU9DQWpRd2dnSXdNQWtHQTFVZEV3UUNNQUF3RGdZRFZSMFBBUUgvQkFRREFnWGdNQ3dHQ1dDR1NBR0crRUlCRFFRZkZoMVBjR1Z1VTFOTUlFZGxibVZ5WVhSbFpDQkRaWEowYVdacFkyRjBaVEFkQmdOVkhRNEVGZ1FVZEdXVkd3dnN4dWkrSUg3YUtKYUFyU2ZWNDhBd0h3WURWUjBqQkJnd0ZvQVVGYlRqa1lZa0xPb3pUd1VlTFMrVHQwaVh4M2d3RXdZRFZSMGxCQXd3Q2dZSUt3WUJCUVVIQXdJd1F3WURWUjBmQkR3d09qQTRvRGFnTklZeWFIUjBjRG92TDJGamMyRjBMbVpoZW1WdVpHRXVjM0F1WjI5MkxtSnlMMkZqYzJGMGMyVm1ZWHB6Y0dOeWJDNWpjbXd3Z2FjR0NDc0dBUVVGQndFQkJJR2FNSUdYTURVR0NDc0dBUVVGQnpBQmhpbG9kSFJ3T2k4dmIyTnpjQzF3YVd4dmRDNXBiWEJ5Wlc1ellXOW1hV05wWVd3dVkyOXRMbUp5THpCZUJnZ3JCZ0VGQlFjd0FvWlNhSFIwY0RvdkwyRmpjMkYwTFhSbGMzUmxMbWx0Y0hKbGJuTmhiMlpwWTJsaGJDNWpiMjB1WW5JdmNtVndiM05wZEc5eWFXOHZZMlZ5ZEdsbWFXTmhaRzl6TDJGamMyRjBMWFJsYzNSbExuQTNZekI3QmdOVkhTQUVkREJ5TUhBR0NTc0dBUVFCZ2V3dEF6QmpNR0VHQ0NzR0FRVUZCd0lCRmxWb2RIUndPaTh2WVdOellYUXVhVzF3Y21WdWMyRnZabWxqYVdGc0xtTnZiUzVpY2k5eVpYQnZjMmwwYjNKcGJ5OWtjR012WVdOellYUnpaV1poZW5Od0wyUndZMTloWTNOaGRITmxabUY2YzNBdWNHUm1NQ1FHQTFVZEVRUWRNQnVnR1FZRllFd0JBd09nRUF3T09ESXpOek13Tnpjd01EQXhOekV3RFFZSktvWklodmNOQVFFTkJRQURnZ0VCQUx2U09sRWZvMG9lVGNEdFBLamFqWE5pZERHbTZlejd4SXYzV2J6bE9Uck9QRXhFYmNja0RWbkFlMzZjNnRpVnZaVWpWdUdoWXluS20xQ0VPcTdQYUs5SDJiWnFTMVZ0Vk5MdmRVKzNUdnZ6c3JXdWlJSlloSXN2NDdvU1YrcGdRREFNd3U5SXRBUVVib3lTR3loaDExY0FyclpEOGwraGlGY1dtODBRNHNtYjEyK3Z0cWd6ZzFEdmFDZ1VlMnFpY2dpWTFtUXlvUXJlL2JhYlgwZG1DSUg5U01UR2s1aXRqTVU3eUR2dUVNWkJsWU90RVpwSzFQVEJKY2JMaFpDTXFTWHdJaVNjRFl1VXBxNTJuTTdYdVlXNTNjQ3NTc3JWTzNUYUkwTzlZanhWT01PcWdQSzBmdWFZZENmLy9LY1I2cHJSaGdmZEEzZTNpWHVUcnFkV3EvND08L1g1MDlDZXJ0aWZpY2F0ZT48L1g1MDlEYXRhPjwvS2V5SW5mbz48L1NpZ25hdHVyZT48L0NGZT4=|20190821094601|CFe41190882373077000171599000159920007757196702|1.27||fv67dbLrP2rbD8Dv+mingrRylRQzWTD6n+Uh+3iwOtVWFcZCyxuQIevh5/THaimsOT7klQws8LEnbXo2qguYf09W5kYn0Q8TtsALQxA/0MUe9P1GxQrnBe9ZyOR3o3jC/KskxPpe+zNjKWS/gGz7+VJSI1nRbd2PAyzsunQJOpTLhkPIuFs9Do8Jd1yrbzbO2u6wOwp6/PAw/QGBXFUUMgbf3Fv5NIIU3tJFnta87k0jFJ3XILRVp7IUNCsDVybxdp2ArSIMrk5Dgm/edxPu+mf1jc0yC68CuoGW6uarq6+VCWbeiY8jl08Sv8WvAEksMglzmFn/II5HaKusrexW0A==</Return>
+	</EnviarDadosVenda>
+	<EnviarDadosVenda Time="21-08-2019 09:47:03:782">
+		<numeroSessao Time="21-08-2019 09:47:03:782">296812</numeroSessao>
+		<codigoDeAtivacao Time="21-08-2019 09:47:03:783">bema1234</codigoDeAtivacao>
+		<dadosVenda Time="21-08-2019 09:47:03:783"><CFe><infCFe versaoDadosEnt="0.07"><ide><CNPJ>16716114000172</CNPJ><signAC>SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT</signAC><numeroCaixa>001</numeroCaixa></ide><emit><CNPJ>82373077000171</CNPJ><IE>111111111111</IE><indRatISSQN>N</indRatISSQN></emit><dest></dest><det nItem="1"><prod><cProd>228</cProd><xProd>EXTRA</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>1.15</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>0.35</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><det nItem="2"><prod><cProd>0000</cProd><xProd>Servico</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>0.12</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>0.04</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><total><vCFeLei12741>0.04</vCFeLei12741></total><pgto><MP><cMP>03</cMP><vMP>1.27</vMP></MP></pgto><infAdic><infCpl>SEQUENCIA: 16</infCpl></infAdic></infCFe></CFe>
+</dadosVenda>
+		<Return Time="21-08-2019 09:47:05:285">296812|06000|0000|Emitido com sucesso + conteúdo notas|||PENGZT48aW5mQ0ZlIElkPSJDRmU0MTE5MDg4MjM3MzA3NzAwMDE3MTU5OTAwMDE1OTkyMDAwNzc2NjcwNjU1NiIgdmVyc2FvPSIwLjA3IiB2ZXJzYW9EYWRvc0VudD0iMC4wNyIgdmVyc2FvU0I9IjAyMDEwMCI+PGlkZT48Y1VGPjQxPC9jVUY+PGNORj42NzA2NTU8L2NORj48bW9kPjU5PC9tb2Q+PG5zZXJpZVNBVD45MDAwMTU5OTI8L25zZXJpZVNBVD48bkNGZT4wMDA3NzY8L25DRmU+PGRFbWk+MjAxOTA4MjE8L2RFbWk+PGhFbWk+MDk0NzA1PC9oRW1pPjxjRFY+NjwvY0RWPjx0cEFtYj4yPC90cEFtYj48Q05QSj4xNjcxNjExNDAwMDE3MjwvQ05QSj48c2lnbkFDPlNHUi1TQVQgU0lTVEVNQSBERSBHRVNUQU8gRSBSRVRBR1VBUkRBIERPIFNBVDwvc2lnbkFDPjxhc3NpbmF0dXJhUVJDT0RFPlE2Q0wzTUtUZVdOOHVNSWlCSzFkUEVtQ1VJQ0JpUVduWUU1RVFlYkFHRWJGWjRPTWdjNkFMaDZTeFhBdk50aEI0aWVuNk5Zb20rV3FnaWpGQjFHMFZXVUJORkRKNVVzTjVkMzZEY25vWGRBaTh3Sm5tRUUxa0RUbXNDcUZKTE9Qd0xDQ3Nzdzl2Z3BJekw2SFpSRWlPV0p3SUJtT1hHNG13YTYvMTlITWpMeFVlRkJwYWtBVDB6REJKMU5qb2FQN0JwTy9VME05KzdISGdEek0yOFdhSnZBM2o5c2hOd0hXREk1WHowSGp6aDh2YzVEaGExUHAzT3p6UVlKcWhxS2ViQkN5Z2xoeWV3ei9haXdQMGpCQjcyZFRWMjdPV09waitOallPY0gzTStZZFZuSXFkZ0g4M0l4bnlrUlgwNnA3SnU0SjBYcThiVytWbGRqM3dIMVUvUT09PC9hc3NpbmF0dXJhUVJDT0RFPjxudW1lcm9DYWl4YT4wMDE8L251bWVyb0NhaXhhPjwvaWRlPjxlbWl0PjxDTlBKPjgyMzczMDc3MDAwMTcxPC9DTlBKPjx4Tm9tZT5CRU1BVEVDSCBTLkE8L3hOb21lPjxlbmRlckVtaXQ+PHhMZ3I+QVZFTklEQSBSVUkgQkFSQk9TQTwveExncj48bnJvPjI1Mjk8L25ybz48eENwbD46IE1PRFVMT1MgMDYgMDcgRSAwODs8L3hDcGw+PHhCYWlycm8+SVBFPC94QmFpcnJvPjx4TXVuPlNBTyBKT1NFIERPUyBQSU5IQUlTPC94TXVuPjxDRVA+ODMwNTUzMjA8L0NFUD48L2VuZGVyRW1pdD48SUU+MTExMTExMTExMTExPC9JRT48Y1JlZ1RyaWI+MTwvY1JlZ1RyaWI+PGluZFJhdElTU1FOPk48L2luZFJhdElTU1FOPjwvZW1pdD48ZGVzdD48Q1BGPjwvQ1BGPjwvZGVzdD48ZGV0IG5JdGVtPSIxIj48cHJvZD48Y1Byb2Q+MjI4PC9jUHJvZD48eFByb2Q+RVhUUkE8L3hQcm9kPjxOQ00+MjEwNjkwOTA8L05DTT48Q0ZPUD41MTAyPC9DRk9QPjx1Q29tPlVOPC91Q29tPjxxQ29tPjEuMDAwMDwvcUNvbT48dlVuQ29tPjEuMTU8L3ZVbkNvbT48dlByb2Q+MS4xNTwvdlByb2Q+PGluZFJlZ3JhPkE8L2luZFJlZ3JhPjx2SXRlbT4xLjE1PC92SXRlbT48L3Byb2Q+PGltcG9zdG8+PHZJdGVtMTI3NDE+MC4zNTwvdkl0ZW0xMjc0MT48SUNNUz48SUNNUzAwPjxPcmlnPjA8L09yaWc+PENTVD4wMDwvQ1NUPjxwSUNNUz4wLjAwPC9wSUNNUz48dklDTVM+MC4wMDwvdklDTVM+PC9JQ01TMDA+PC9JQ01TPjxQSVM+PFBJU05UPjxDU1Q+MDQ8L0NTVD48L1BJU05UPjwvUElTPjxDT0ZJTlM+PENPRklOU05UPjxDU1Q+MDQ8L0NTVD48L0NPRklOU05UPjwvQ09GSU5TPjwvaW1wb3N0bz48L2RldD48ZGV0IG5JdGVtPSIyIj48cHJvZD48Y1Byb2Q+MDAwMDwvY1Byb2Q+PHhQcm9kPlNlcnZpY288L3hQcm9kPjxOQ00+MjEwNjkwOTA8L05DTT48Q0ZPUD41MTAyPC9DRk9QPjx1Q29tPlVOPC91Q29tPjxxQ29tPjEuMDAwMDwvcUNvbT48dlVuQ29tPjAuMTI8L3ZVbkNvbT48dlByb2Q+MC4xMjwvdlByb2Q+PGluZFJlZ3JhPkE8L2luZFJlZ3JhPjx2SXRlbT4wLjEyPC92SXRlbT48L3Byb2Q+PGltcG9zdG8+PHZJdGVtMTI3NDE+MC4wNDwvdkl0ZW0xMjc0MT48SUNNUz48SUNNUzAwPjxPcmlnPjA8L09yaWc+PENTVD4wMDwvQ1NUPjxwSUNNUz4wLjAwPC9wSUNNUz48dklDTVM+MC4wMDwvdklDTVM+PC9JQ01TMDA+PC9JQ01TPjxQSVM+PFBJU05UPjxDU1Q+MDQ8L0NTVD48L1BJU05UPjwvUElTPjxDT0ZJTlM+PENPRklOU05UPjxDU1Q+MDQ8L0NTVD48L0NPRklOU05UPjwvQ09GSU5TPjwvaW1wb3N0bz48L2RldD48dG90YWw+PElDTVNUb3Q+PHZJQ01TPjAuMDA8L3ZJQ01TPjx2UHJvZD4xLjI3PC92UHJvZD48dkRlc2M+MC4wMDwvdkRlc2M+PHZQSVM+MC4wMDwvdlBJUz48dkNPRklOUz4wLjAwPC92Q09GSU5TPjx2UElTU1Q+MC4wMDwvdlBJU1NUPjx2Q09GSU5TU1Q+MC4wMDwvdkNPRklOU1NUPjx2T3V0cm8+MC4wMDwvdk91dHJvPjwvSUNNU1RvdD48dkNGZT4xLjI3PC92Q0ZlPjx2Q0ZlTGVpMTI3NDE+MC4wNDwvdkNGZUxlaTEyNzQxPjwvdG90YWw+PHBndG8+PE1QPjxjTVA+MDM8L2NNUD48dk1QPjEuMjc8L3ZNUD48L01QPjx2VHJvY28+MC4wMDwvdlRyb2NvPjwvcGd0bz48aW5mQWRpYz48aW5mQ3BsPlNFUVVFTkNJQTogMTY8L2luZkNwbD48b2JzRmlzY28geENhbXBvPSIwNC4wNC4wNS4wNCI+PHhUZXh0bz5Db21ldGUgY3JpbWUgcXVlbSBzb25lZ2E8L3hUZXh0bz48L29ic0Zpc2NvPjwvaW5mQWRpYz48L2luZkNGZT48U2lnbmF0dXJlIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjIj48U2lnbmVkSW5mbyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnIyI+PENhbm9uaWNhbGl6YXRpb25NZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy14bWwtYzE0bi0yMDAxMDMxNSI+PC9DYW5vbmljYWxpemF0aW9uTWV0aG9kPjxTaWduYXR1cmVNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNyc2Etc2hhMjU2Ij48L1NpZ25hdHVyZU1ldGhvZD48UmVmZXJlbmNlIFVSST0iI0NGZTQxMTkwODgyMzczMDc3MDAwMTcxNTk5MDAwMTU5OTIwMDA3NzY2NzA2NTU2Ij48VHJhbnNmb3Jtcz48VHJhbnNmb3JtIEFsZ29yaXRobT0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnI2VudmVsb3BlZC1zaWduYXR1cmUiPjwvVHJhbnNmb3JtPjxUcmFuc2Zvcm0gQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy14bWwtYzE0bi0yMDAxMDMxNSI+PC9UcmFuc2Zvcm0+PC9UcmFuc2Zvcm1zPjxEaWdlc3RNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGVuYyNzaGEyNTYiPjwvRGlnZXN0TWV0aG9kPjxEaWdlc3RWYWx1ZT42ZTZzbmNtcSs5bVJKQzZBbE1pUGYvVGhJRm9kM2tPQW5ubSswTmdvSlJ3PTwvRGlnZXN0VmFsdWU+PC9SZWZlcmVuY2U+PC9TaWduZWRJbmZvPjxTaWduYXR1cmVWYWx1ZT5XLzdOc00zTXMxbSt0VmlNeEFxRWFGdEJka2hwWngrdlc1UlBBcjY4V2ppaFg2bEY4djFlYkxrL3NEVWIxVHNqZWRpZmFBeFJHa21UOThpR1Y0b0hxYWdxb0ZMN0U2L2tPQ1crb3Bod1ZmN2NXVEZTQWFSWjNkYnlwUHhiaG9vWWNuRk4wdFl6RjBLTGNXQ3RHcHNVMCtHR3g1RDRNNml6alJTNmJxaGtrbWUraTFxWDJza3hjWC9zZDFQbWM4K3g3RU95cExhSm13WHI4QTFvcHFXbkdjQjVaR0ZsNkd2d2tHU0ozUk1hcFpIaitnTDF3MEdzSklLeUJFdmN4MXpEVVVTVzdWZHVEdW5DSDJnbmtuUjRYQWhSVGR3QW5kQURVZkFveEhIbjNEeVVFeHNQam1Ja0FEbVl0VzdGbDczYTlnK0xoSWZkYjJxbWtCZ3NsMTlHTlE9PTwvU2lnbmF0dXJlVmFsdWU+PEtleUluZm8+PFg1MDlEYXRhPjxYNTA5Q2VydGlmaWNhdGU+TUlJRnRqQ0NCSjZnQXdJQkFnSUNHcFl3RFFZSktvWklodmNOQVFFTkJRQXdhREVMTUFrR0ExVUVCaE1DUWxJeEVqQVFCZ05WQkFnTUNWTkJUeUJRUVZWTVR6RVNNQkFHQTFVRUJ3d0pVMEZQSUZCQlZVeFBNUTh3RFFZRFZRUUtEQVpCUTBaVlUxQXhEekFOQmdOVkJBc01Ca0ZEUmxWVFVERVBNQTBHQTFVRUF3d0dRVU5HVlZOUU1CNFhEVEU0TURneU1qRTJNekl6T0ZvWERUSXpNRGd5TVRFMk16SXpPRm93Z1pzeEN6QUpCZ05WQkFZVEFrSlNNUTh3RFFZRFZRUUlEQVpRWVhKaGJtRXhFVEFQQmdOVkJBb01DRk5GUmtGYUxWTlFNU2d3SmdZRFZRUUxFeDlCZFhSdmNtbGtZV1JsSUdSbElGSmxaMmx6ZEhKdklGTkZSa0ZhSUZOUU1SZ3dGZ1lEVlFRTEV3OUJReUJUUVZRZ1UwVkdRVm9nVTFBeEpEQWlCZ05WQkFNTUcwSkZUVUZVUlVOSUlGTXVRVG80TWpNM016QTNOekF3TURFM01UQ0NBU0l3RFFZSktvWklodmNOQVFFQkJRQURnZ0VQQURDQ0FRb0NnZ0VCQUpZSWZPaGtrUGtBMGlwa0JOekJXZkhXVlA0SENwU3RtTkVqUHlvbVdqOVhURjRUZHBnd3JaQ2pSM2QyOHQ4eDVZdmFIOU1mdThWYzU1bG91RVNpbitTTXNobVFRWWl2aDd6MktRSDBxS2lHaFdHYm5iSzA2UlFlcXY0YVBpQjlhbVpOWjBBOVBqYlhkM1FhRDduNTdWSjVHRzdVdWNxV0dmZHFrRGxDQmR1RkY2eGNVb1NtcFpxcWYwR2hLSlVycGsvZE5mUkE2MXV6NHhaWVdyZWlEeVJPSVBSaTVvYXdRS1FIdEVCcjdYZFRsNHVmT2V6S0dTV1lNTWJZRWpWc25jSnlNdnIyWDVOZWwxSi96OThPcXVEeWxUS2N5cldCZnR5Q08yeGoyMVlBZFdIK3ZVV3hoNEsxdC9SRUZCRFRqNElsMHRURldJTURyVVJuRk1qNWZWTUNBd0VBQWFPQ0FqUXdnZ0l3TUFrR0ExVWRFd1FDTUFBd0RnWURWUjBQQVFIL0JBUURBZ1hnTUN3R0NXQ0dTQUdHK0VJQkRRUWZGaDFQY0dWdVUxTk1JRWRsYm1WeVlYUmxaQ0JEWlhKMGFXWnBZMkYwWlRBZEJnTlZIUTRFRmdRVWRHV1ZHd3ZzeHVpK0lIN2FLSmFBclNmVjQ4QXdId1lEVlIwakJCZ3dGb0FVRmJUamtZWWtMT296VHdVZUxTK1R0MGlYeDNnd0V3WURWUjBsQkF3d0NnWUlLd1lCQlFVSEF3SXdRd1lEVlIwZkJEd3dPakE0b0RhZ05JWXlhSFIwY0RvdkwyRmpjMkYwTG1aaGVtVnVaR0V1YzNBdVoyOTJMbUp5TDJGamMyRjBjMlZtWVhwemNHTnliQzVqY213d2dhY0dDQ3NHQVFVRkJ3RUJCSUdhTUlHWE1EVUdDQ3NHQVFVRkJ6QUJoaWxvZEhSd09pOHZiMk56Y0Mxd2FXeHZkQzVwYlhCeVpXNXpZVzltYVdOcFlXd3VZMjl0TG1KeUx6QmVCZ2dyQmdFRkJRY3dBb1pTYUhSMGNEb3ZMMkZqYzJGMExYUmxjM1JsTG1sdGNISmxibk5oYjJacFkybGhiQzVqYjIwdVluSXZjbVZ3YjNOcGRHOXlhVzh2WTJWeWRHbG1hV05oWkc5ekwyRmpjMkYwTFhSbGMzUmxMbkEzWXpCN0JnTlZIU0FFZERCeU1IQUdDU3NHQVFRQmdld3RBekJqTUdFR0NDc0dBUVVGQndJQkZsVm9kSFJ3T2k4dllXTnpZWFF1YVcxd2NtVnVjMkZ2Wm1samFXRnNMbU52YlM1aWNpOXlaWEJ2YzJsMGIzSnBieTlrY0dNdllXTnpZWFJ6WldaaGVuTndMMlJ3WTE5aFkzTmhkSE5sWm1GNmMzQXVjR1JtTUNRR0ExVWRFUVFkTUJ1Z0dRWUZZRXdCQXdPZ0VBd09PREl6TnpNd056Y3dNREF4TnpFd0RRWUpLb1pJaHZjTkFRRU5CUUFEZ2dFQkFMdlNPbEVmbzBvZVRjRHRQS2phalhOaWRER202ZXo3eEl2M1diemxPVHJPUEV4RWJjY2tEVm5BZTM2YzZ0aVZ2WlVqVnVHaFl5bkttMUNFT3E3UGFLOUgyYlpxUzFWdFZOTHZkVSszVHZ2enNyV3VpSUpZaElzdjQ3b1NWK3BnUURBTXd1OUl0QVFVYm95U0d5aGgxMWNBcnJaRDhsK2hpRmNXbTgwUTRzbWIxMit2dHFnemcxRHZhQ2dVZTJxaWNnaVkxbVF5b1FyZS9iYWJYMGRtQ0lIOVNNVEdrNWl0ak1VN3lEdnVFTVpCbFlPdEVacEsxUFRCSmNiTGhaQ01xU1h3SWlTY0RZdVVwcTUybk03WHVZVzUzY0NzU3NyVk8zVGFJME85WWp4Vk9NT3FnUEswZnVhWWRDZi8vS2NSNnByUmhnZmRBM2UzaVh1VHJxZFdxLzQ9PC9YNTA5Q2VydGlmaWNhdGU+PC9YNTA5RGF0YT48L0tleUluZm8+PC9TaWduYXR1cmU+PC9DRmU+|20190821094705|CFe41190882373077000171599000159920007766706556|1.27||Q6CL3MKTeWN8uMIiBK1dPEmCUICBiQWnYE5EQebAGEbFZ4OMgc6ALh6SxXAvNthB4ien6NYom+WqgijFB1G0VWUBNFDJ5UsN5d36DcnoXdAi8wJnmEE1kDTmsCqFJLOPwLCCssw9vgpIzL6HZREiOWJwIBmOXG4mwa6/19HMjLxUeFBpakAT0zDBJ1NjoaP7BpO/U0M9+7HHgDzM28WaJvA3j9shNwHWDI5Xz0Hjzh8vc5Dha1Pp3OzzQYJqhqKebBCyglhyewz/aiwP0jBB72dTV27OWOpj+NjYOcH3M+YdVnIqdgH83IxnykRX06p7Ju4J0Xq8bW+Vldj3wH1U/Q==</Return>
+	</EnviarDadosVenda>
+</bematech>

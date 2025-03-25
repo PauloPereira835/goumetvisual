@@ -1,0 +1,1 @@
+﻿Erro|Erro na abertura da porta de comunicacao com o S@T

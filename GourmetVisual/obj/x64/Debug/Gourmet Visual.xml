@@ -1,0 +1,256 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gourmet Visual
+</name>
+</assembly>
+<members>
+<member name="T:GourmetVisual.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Back">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Back1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Back2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.balcao1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Botao_Ret_Laranja">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Botao_Ret_Laranja2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.BotaoLaranjaOK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Clipboard_Paste">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.configuration">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Currency_Dollar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.delivery1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Document">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Document_New">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Document2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Dots">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.exclamacao">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Imprimir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.interrogacao">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Lixeira">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_Gourmet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_Gourmet_menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_Gourmet_menu1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Azul">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Azul_horizintal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Verde">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Verde_horizintal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Vermelha">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Vermelha_horizintal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Ok">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Ok1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Plus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Plus1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Printer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.salao1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Save1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Size_Vert">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Standby">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Tool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Trash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Trash1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Trash2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.SombraLabel.OffsetX">
+ <summary> 
+ Definição do offset em X 
+ </summary> 
+</member>
+<member name="P:GourmetVisual.SombraLabel.OffsetY">
+ <summary> 
+ Definição do offset em Y 
+ </summary> 
+</member>
+<member name="P:GourmetVisual.SombraLabel.ForeColorFront">
+ <summary> 
+ Definição da cor da frente 
+ </summary> 
+</member>
+<member name="P:GourmetVisual.SombraLabel.ForeColorBack">
+ <summary> 
+ Definição da cor de sombreado 
+ </summary> 
+</member>
+</members>
+</doc>

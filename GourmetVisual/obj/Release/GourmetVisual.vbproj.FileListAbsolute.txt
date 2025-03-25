@@ -1,0 +1,39 @@
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Release\Gourmet Visual.exe.config
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Release\Gourmet Visual.exe.manifest
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Release\Gourmet Visual.application
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Release\Gourmet Visual.exe
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Release\Gourmet Visual.pdb
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Release\Gourmet Visual.xml
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\Interop.CFeSatDataSetX.dll
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\Interop.CFeSatX.dll
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.vbproj.ResolveComReference.cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgAbreMesa.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgAbreMovimento.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgAlteraQtde.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgCombo.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgComentarioPrincipal.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgConfigGrupos.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgConta.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgEstorno.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgMensagemBox.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgModuloFiscal_SAT.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgPeloCodigo.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgMensagens.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgSAT.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.fdlgTransferencias.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.Form2.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.frmCaixa.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.frmConfiguracao.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.frmInicio.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.frmPagamento.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.frmSalao.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.frmPrincipal.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.Resources.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.vbproj.GenerateResource.cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\GourmetVisual.vbproj.CoreCompileInputs.cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\Gourmet Visual.TrustInfo.xml
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\Gourmet Visual.exe.manifest
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\Gourmet Visual.application
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\Gourmet Visual.exe
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\Gourmet Visual.xml
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\Release\Gourmet Visual.pdb

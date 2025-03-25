@@ -1,0 +1,28 @@
+07/12/2018,17:58:04:719 spdLicense: Verificando se precisa baixar a licença: 0
+07/12/2018,17:58:04:722 spdLicenseAdapter: Tentativa 1 de 2
+07/12/2018,17:58:04:723 spdLicenseAdapter: Validando a licença.
+07/12/2018,17:58:04:725 spdLicense: Verificando se precisa baixar a licença: 0
+07/12/2018,17:58:04:727 spdLicense: Verificando se baixou a licença hoje: 0
+07/12/2018,17:58:04:728 spdLicense: Obtendo Código.
+07/12/2018,17:58:04:730 spdLicense: Código da licença não obtido. Tentando obter o código novamente.
+07/12/2018,17:58:04:731 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: CNPJ=82373077000171 
+ PRODUTO=0000000053 
+ VERSAO=4.1.23.5299
+07/12/2018,17:58:14:389 spdClienteLicense: Verificando se o servidor retornou a licença corretamente.
+07/12/2018,17:58:14:414 spdClienteLicense: Código retornado: 150882
+07/12/2018,17:58:14:416 spdLicense: Código obtido: 150882
+07/12/2018,17:58:14:418 spdClienteLicense: Fazendo a requisição para o servidor com os parâmetros: LICENCA=150882
+07/12/2018,17:58:14:572 spdLicense: Resultado da requisição gravada no License.dat: 62=02=4122$7331{}k|3MA@ZG@IÍ?@MGO.ZKM@A]^KKJ"jozk3<<!?<!<>?6"ekw3??:7>6;8<""jozkk`majk3>9!?<!<>?6r
+07/12/2018,17:58:14:575 spdLicense: Validando o arquivo.
+07/12/2018,17:58:14:579 spdLicense: Verificando a hash.
+07/12/2018,17:58:14:590 spdLicense: Verificando a data
+07/12/2018,17:58:14:593 spdLicenseAdapter: Licença validada com sucesso.
+07/12/2018,18:52:29:461 spdLicense: Verificando se precisa baixar a licença: 0
+07/12/2018,18:52:29:465 spdLicenseAdapter: Tentativa 1 de 2
+07/12/2018,18:52:29:466 spdLicenseAdapter: Validando a licença.
+07/12/2018,18:52:29:467 spdLicense: Verificando se precisa baixar a licença: 0
+07/12/2018,18:52:29:469 spdLicense: Verificando se baixou a licença hoje: -1
+07/12/2018,18:52:29:470 spdLicense: Validando o arquivo.
+07/12/2018,18:52:29:472 spdLicense: Verificando a hash.
+07/12/2018,18:52:29:473 spdLicense: Verificando a data
+07/12/2018,18:52:29:474 spdLicenseAdapter: Licença validada com sucesso.

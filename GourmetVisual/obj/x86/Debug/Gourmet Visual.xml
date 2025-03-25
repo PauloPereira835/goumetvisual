@@ -1,0 +1,1691 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gourmet Visual
+</name>
+</assembly>
+<members>
+<member name="T:GourmetVisual.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.ame">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Back">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Back1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Back2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.balcao11">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.base">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Binoculo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Botao_Ret_Laranja">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Botao_Ret_Laranja2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.BotaoLaranjaOK">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Cancel">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.cielo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Clipboard_Paste">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Clipboard_Paste1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.coca_cola">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Currency_Dollar">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Currency_Dollar1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.delivery">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Document">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Document_New">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Document2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Dots">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.exclamacao">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.faixa">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Hdd">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.ifood">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Imprimir">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.interrogacao">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Lixeira">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Lock">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Lock_Open">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Lock_Open1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Lock_Open2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Lock1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Lock2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_Gourmet_menu">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_Gourmet_menu_menor">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_IRIS_menu">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Logo_NOVO1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mail">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mail1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.MercadoPago">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Azul">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.mesa_marrom">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.mesa_marrom_critica">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Verde">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_VerdeOK">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Mesa_Vermelha">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Minus">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Ok">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Ok1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Ok2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.PagSeguro">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.PicPay">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Pix">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Pix_botao">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Plus">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Plus1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Plus2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Pointer">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Printer">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Printer1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Printer2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.qrbox">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Qtde">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Qtde1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.rappi">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Refresh">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.salao_balcao">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.salao11">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.sat">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.satOK">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Save">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Save1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Save2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Size_Vert">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Standby">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Tool">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Trash">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Trash1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Trash2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.User">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Write">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GourmetVisual.My.Resources.Resources.Write1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:GourmetVisual.Bematech.IniciaPorta(System.String)">
+ <summary>
+ Esta função tem por objetivo abrir a porta de comunicação, onde a impressora está conectada
+ </summary>
+ <param name="porta">STRING nome da porta de comunicação</param>
+ <returns>INTEIRO - Indica se a função conseguiu enviar o comando para impressora.</returns>
+</member>
+<member name="M:GourmetVisual.Bematech.FechaPorta">
+ <summary>
+ Esta função tem por objetivo fechar a porta de comunicação, liberando a porta para outras atividades.
+ </summary>
+ <returns>INTEIRO - Indica se a função conseguiu enviar o comando para impressora.</returns>
+</member>
+<member name="M:GourmetVisual.Bematech.ImprimeCodigoQRCODE(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String)">
+ <summary>
+ Imprime QR Code
+ </summary>
+</member>
+<member name="M:GourmetVisual.Bematech.FormataTX(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Esta função tem por objetivo enviar textos para a impressora, com formatações, informadas pelos parâmetros.
+ </summary>
+ <param name="texto">STRING texto a ser impresso.</param>
+ <param name="TipoLetra">INTEIRO sendo 1 = comprimido, 2 = normal, 3 = elite</param>
+ <param name="italico">INTEIRO  0 = desativa modo, 1 = ativa modo.</param>
+ <param name="sublinhado">INTEIRO 0 = desativa modo, 1 = ativa modo.</param>
+ <param name="expandido">INTEIRO 0 = desativa modo, 1 = ativa modo.</param>
+ <param name="enfatizado">INTEIRO 0 = desativa modo, 1 = ativa modo.</param>
+ <returns>INTEIRO - Indica se a função conseguiu enviar o comando para impressora.</returns>
+</member>
+<member name="M:GourmetVisual.Bematech.PrinterReset">
+ <summary>
+ Reset da impressora
+ </summary>
+ <returns>INTEIRO - Indica se a função conseguiu enviar o comando para impressora.</returns>
+</member>
+<member name="M:GourmetVisual.Bematech.BematechTX(System.String)">
+ <summary>
+ Impressão de textos, enviando um conjunto com várias linhas.
+ </summary>
+ <param name="texto">STRING Texto a ser impresso</param>
+ <returns>INTEIRO - Indica se a função conseguiu enviar o comando para impressora.</returns>
+</member>
+<member name="M:GourmetVisual.Bematech.AcionaGuilhotina(System.Int32)">
+ <summary>
+ Aciona a guilhotina, cortando o papel em modo parcial ou total.
+ </summary>
+ <param name="parcial_full">INTEIRA 0 = acionamento parcial, 1 = acionamento total.</param>
+ <returns>INTEIRO - Indica se a função conseguiu enviar o comando para impressora.</returns>
+</member>
+<member name="T:GourmetVisual.DS_Pagtos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GourmetVisual.DS_Pagtos.PagtoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GourmetVisual.DS_Pagtos.PagtoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GourmetVisual.DS_Pagtos.PagtoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GourmetVisual.WSCorreios.SQLException">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.SQLException.errorCode">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.SQLException.errorCodeSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.SQLException.sQLState">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.SQLException.message">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.servicoAdicionalXML">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalXML.codigo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalXML.descricao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalXML.sigla">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.Exception">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.Exception.message">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.ErroMontagemRelatorio">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.ErroMontagemRelatorio.message">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.objetoPostal">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.codigoEtiqueta">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.dataAtualizacaoCliente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.dataAtualizacaoClienteSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.dataBloqueioObjeto">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.dataBloqueioObjetoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.dataCancelamentoEtiqueta">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.dataCancelamentoEtiquetaSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.dataInclusao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.dataInclusaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.objetoPostalPK">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.plpNu">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.plpNuSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.preListaPostagem">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.statusBloqueio">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.statusEtiqueta">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostal.statusEtiquetaSpecified">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.objetoPostalPK">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostalPK.codigoEtiqueta">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoPostalPK.plpNu">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.preListaPostagem">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.cartaoPostagem">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataAtualizacaoCliente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataAtualizacaoClienteSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataAtualizacaoSara">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataAtualizacaoSaraSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataFechamento">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataFechamentoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataPostagem">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataPostagemSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataPostagemSara">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.dataPostagemSaraSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.objetosPostais">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.plpCliente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.plpNu">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.plpXml">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.plpXmlRetorno">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.status">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.preListaPostagem.statusSpecified">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.cartaoPostagemERP">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.codigoAdministrativo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.contratos">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.dataVigenciaFim">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.dataVigenciaFimSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.dataVigenciaInicio">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.dataVigenciaInicioSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.datajVigenciaFim">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.datajVigenciaFimSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.datajVigenciaInicio">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.datajVigenciaInicioSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.descricaoStatusCartao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.descricaoUnidadePostagemGenerica">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.numero">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.servicos">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.statusCartaoPostagem">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.statusCodigo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.unidadeGenerica">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.cartaoPostagemERP.unidadesPostagem">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.contratoERP">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.cartoesPostagem">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.cliente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.codigoCliente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.codigoDiretoria">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.contratoPK">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.dataAtualizacaoDDMMYYYY">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.dataVigenciaFim">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.dataVigenciaFimSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.dataVigenciaFimDDMMYYYY">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.dataVigenciaInicio">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.dataVigenciaInicioSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.dataVigenciaInicioDDMMYYYY">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.datajVigenciaFim">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.datajVigenciaFimSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.datajVigenciaInicio">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.datajVigenciaInicioSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.descricaoDiretoriaRegional">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.descricaoStatus">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.diretoriaRegional">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERP.statusCodigo">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.clienteERP">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.cnpj">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.contratos">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.descricaoStatusCliente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.gerenteConta">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.id">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.inscricaoEstadual">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.nome">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.clienteERP.statusCodigo">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.gerenteConta">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.clientesVisiveis">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.dataInclusao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.dataInclusaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.dataSenha">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.dataSenhaSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.login">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.matricula">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.senha">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.status">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.statusSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.tipoGerente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.tipoGerenteSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.usuariosInstalacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.gerenteConta.validade">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.statusGerente">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusGerente.Ativo">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusGerente.Inativo">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.tipoGerente">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.tipoGerente.GerenteConta">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.tipoGerente.GerenteContaMaster">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.usuarioInstalacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.dataInclusao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.dataInclusaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.dataSenha">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.dataSenhaSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.gerenteMaster">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.hashSenha">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.id">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.idSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.login">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.nome">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.parametros">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.senha">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.status">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.statusSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.usuarioInstalacao.validade">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.parametroMaster">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.parametroMaster.prmCoParametro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.parametroMaster.prmTxParametro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.parametroMaster.prmTxValor">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.statusUsuario">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusUsuario.Ativo">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusUsuario.Inativo">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.contratoERPPK">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERPPK.diretoria">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.contratoERPPK.numero">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.unidadePostagemERP">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.unidadePostagemERP.diretoriaRegional">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.unidadePostagemERP.endereco">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.unidadePostagemERP.id">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.unidadePostagemERP.nome">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.unidadePostagemERP.status">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.unidadePostagemERP.tipo">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.enderecoERP">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.enderecoERP.bairro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.enderecoERP.cep">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.enderecoERP.cidade">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.enderecoERP.complemento2">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.enderecoERP.end">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.enderecoERP.uf">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.enderecoERP.unidadesPostagem">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.servicoERP">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.codigo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.descricao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.id">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.servicoSigep">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.servicosAdicionais">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.tipo1Codigo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.tipo1Descricao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.tipo2Codigo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.tipo2Descricao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoERP.vigencia">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.servicoSigep">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.categoriaServico">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.categoriaServicoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.chancela">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.exigeDimensoes">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.exigeDimensoesSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.exigeValorCobrar">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.exigeValorCobrarSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.imitm">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.pagamentoEntrega">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.remessaAgrupada">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.servico">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.servicoERP">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoSigep.ssiCoCodigoPostal">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.categoriaServico">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.categoriaServico.SEM_CATEGORIA">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.categoriaServico.PAC">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.categoriaServico.SEDEX">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.categoriaServico.CARTA_REGISTRADA">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.categoriaServico.SERVICO_COM_RESTRICAO">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.categoriaServico.REVERSO">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.categoriaServico.CARTA_CTR">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.chancelaMaster">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.chancelaMaster.chancela">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.chancelaMaster.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.chancelaMaster.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.chancelaMaster.descricao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.chancelaMaster.id">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.chancelaMaster.servicosSigep">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.servicoAdicionalERP">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.codigo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.descricao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.id">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.idSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.servicoAdicionalERP.sigla">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.vigenciaERP">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.dataFinal">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.dataFinalSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.dataInicial">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.dataInicialSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.datajFim">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.datajFimSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.datajIni">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.datajIniSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.id">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.vigenciaERP.idSpecified">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.statusPlp">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusPlp.Aberta">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusPlp.Fechada">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusPlp.Postada">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.statusObjetoPostal">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusObjetoPostal.EmBranco">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusObjetoPostal.Postado">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusObjetoPostal.Cancelado">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusObjetoPostal.Estorno">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.embalagemLRSMaster">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.embalagemLRSMaster.codigo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.embalagemLRSMaster.nome">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.embalagemLRSMaster.tipo">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.statusCartao">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusCartao.Desconhecido">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusCartao.Normal">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusCartao.Suspenso">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusCartao.Cancelado">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.statusCartao.Irregular">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.valePostal">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.cidNoCidade">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.ctcCoAadministrativo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.ctcNuContrato">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.ctcNuContratoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.ctcNuContratoEct">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.ctcNuContratoEctSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.cvpEdBairro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.cvpEdCliente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.cvpEdComplemento">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.cvpEdNumero">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.cvpNoCliente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.cvpNuCep">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.cvpNuCepSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.descricaoErro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.estSgEstado">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.monVarTarifaAdicional">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.monVarTarifaServico">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.monVarValorDescontos">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.monVarValorImposto">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.prsCoProdutoServico">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.prsCoProdutoServicoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.pveNu">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.pveNuSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.pveOrgNuAgencia">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.pveOrgNuAgenciaSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.pveOrgNuAgenciaDes">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.pveOrgNuAgenciaDesSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.pveOrgNuAgenciaOri">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.pveOrgNuAgenciaOriSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.retornaCodErro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.sitNoSituacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.tlgTxDescricao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.vapDhTransacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.vapDhTransacaoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.vapNuEtiquetaEncomenda">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.vapVrCobradoEct">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.vapVrCobradoEctSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.vapVrNominal">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.valePostal.vapVrNominalSpecified">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.coletaSimultanea">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaSimultanea.obj">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaSimultanea.obs">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.coleta">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coleta.cklist">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coleta.descricao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coleta.documento">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coleta.id_cliente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coleta.produto">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coleta.remetente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coleta.tipo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coleta.valor_declarado">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.produto">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.produto.codigo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.produto.qtd">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.produto.tipo">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.remetente">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.remetente.celular">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.remetente.ddd_celular">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.remetente.identificacao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.remetente.sms">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.pessoa">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.bairro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.cep">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.cidade">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.complemento">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.ddd">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.email">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.logradouro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.nome">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.numero">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.referencia">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.telefone">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.pessoa.uf">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.coletaReversa">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaReversa.ag">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaReversa.ar">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaReversa.arSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaReversa.cartao">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaReversa.numero">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaReversa.numeroSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaReversa.obj_col">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.coletaReversa.servico_adicional">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.objeto">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objeto.desc">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objeto.entrega">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objeto.id">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objeto.item">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objeto.num">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.retornoCancelamento">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.retornoCancelamento.cod_erro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.retornoCancelamento.codigo_administrativo">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.retornoCancelamento.data">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.retornoCancelamento.hora">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.retornoCancelamento.msg_erro">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.retornoCancelamento.objeto_postal">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.objetoSimplificado">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoSimplificado.datahora_cancelamento">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoSimplificado.numero_pedido">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoSimplificado.numero_pedidoSpecified">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.WSCorreios.objetoSimplificado.status_pedido">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.tipoBloqueio">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.tipoBloqueio.FRAUDE_BLOQUEIO">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.tipoBloqueio.EXTRAVIO_VAREJO_PRE_INDENIZADO">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.tipoBloqueio.EXTRAVIO_VAREJO_POS_INDENIZADO">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.tipoBloqueio.EXTRAVIO_CORPORATIVO">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.tipoBloqueio.INTERNACIONAL_LDI">
+<remarks/>
+</member>
+<member name="T:GourmetVisual.WSCorreios.acao">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.acao.DEVOLVIDO_AO_REMETENTE">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.acao.ENCAMINHADO_PARA_REFUGO">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.acao.REINTEGRADO_E_DEVOLVIDO_AO_REMETENTE">
+<remarks/>
+</member>
+<member name="F:GourmetVisual.WSCorreios.acao.DESBLOQUEADO">
+<remarks/>
+</member>
+<member name="P:GourmetVisual.SombraLabel.OffsetX">
+ <summary> 
+ Definição do offset em X 
+ </summary> 
+</member>
+<member name="P:GourmetVisual.SombraLabel.OffsetY">
+ <summary> 
+ Definição do offset em Y 
+ </summary> 
+</member>
+<member name="P:GourmetVisual.SombraLabel.ForeColorFront">
+ <summary> 
+ Definição da cor da frente 
+ </summary> 
+</member>
+<member name="P:GourmetVisual.SombraLabel.ForeColorBack">
+ <summary> 
+ Definição da cor de sombreado 
+ </summary> 
+</member>
+</members>
+</doc>

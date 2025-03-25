@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bematech>
+	<readBemaSATFile Time="17-07-2019 16:31:06:992">
+		<NivelLog Time="17-07-2019 16:31:06:993">1</NivelLog>
+		<Path Time="17-07-2019 16:31:06:994">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\</Path>
+		<BemaSAT_path Time="17-07-2019 16:31:06:995">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\bemasat.dll</BemaSAT_path>
+		<BemaSAT_version Time="17-07-2019 16:31:06:995">1,0,2,35</BemaSAT_version>
+		<BemaSAT_path_configuracao Time="17-07-2019 16:31:06:996">.\bemasat.xml</BemaSAT_path_configuracao>
+		<LocalizarPorta Time="17-07-2019 16:31:06:997">1</LocalizarPorta>
+		<USB_ID Time="17-07-2019 16:31:06:998">PID:0B1B_VID:0108 Nao Localizado</USB_ID>
+		<USB_ID Time="17-07-2019 16:31:06:998">PID:0525_VID:A4A7 Nao Localizado</USB_ID>
+		<Porta Time="17-07-2019 16:31:07:000">COM5</Porta>
+		<ValidarParametros Time="17-07-2019 16:31:07:001">1</ValidarParametros>
+		<Timeout_Ativacao Time="17-07-2019 16:31:07:001">600000</Timeout_Ativacao>
+		<Timeout_ICP_Brasil Time="17-07-2019 16:31:07:002">480000</Timeout_ICP_Brasil>
+		<Timeout_Consultar_SAT Time="17-07-2019 16:31:07:003">10000</Timeout_Consultar_SAT>
+		<Timeout_Associar_Assinatura Time="17-07-2019 16:31:07:004">20000</Timeout_Associar_Assinatura>
+		<Timeout_Consultar_Sessao Time="17-07-2019 16:31:07:005">30000</Timeout_Consultar_Sessao>
+		<Timeout_Trocar_Codigo_Ativacao Time="17-07-2019 16:31:07:005">20000</Timeout_Trocar_Codigo_Ativacao>
+		<Timeout_Bloquear_SAT Time="17-07-2019 16:31:07:006">300000</Timeout_Bloquear_SAT>
+		<Timeout_Desbloquear_SAT Time="17-07-2019 16:31:07:007">30000</Timeout_Desbloquear_SAT>
+		<Timeout_Extrair_Logs Time="17-07-2019 16:31:07:007">60000</Timeout_Extrair_Logs>
+		<Timeout_Atualizar_SAT Time="17-07-2019 16:31:07:008">1800000</Timeout_Atualizar_SAT>
+		<Timeout_Configurar_Rede Time="17-07-2019 16:31:07:008">30000</Timeout_Configurar_Rede>
+		<Timeout_Enviar_Venda Time="17-07-2019 16:31:07:009">60000</Timeout_Enviar_Venda>
+		<Timeout_Cancelar_Venda Time="17-07-2019 16:31:07:010">20000</Timeout_Cancelar_Venda>
+		<Timeout_Teste_Fim_a_Fim Time="17-07-2019 16:31:07:010">30000</Timeout_Teste_Fim_a_Fim>
+		<Timeout_Consultar_Status Time="17-07-2019 16:31:07:011">15000</Timeout_Consultar_Status>
+		<Timeout_intervalo_status Time="17-07-2019 16:31:07:011">1800000</Timeout_intervalo_status>
+		<resetWait Time="17-07-2019 16:31:07:012">0</resetWait>
+		<ArquivoDados Time="17-07-2019 16:31:07:013">.\bemasat.db</ArquivoDados>
+		<ExtrairLogsPeriodicos Time="17-07-2019 16:31:07:013">0</ExtrairLogsPeriodicos>
+		<Return Time="17-07-2019 16:31:07:014">1</Return>
+	</readBemaSATFile>
+	<EnviarDadosVenda Time="17-07-2019 16:31:11:447">
+		<numeroSessao Time="17-07-2019 16:31:11:448">265931</numeroSessao>
+		<codigoDeAtivacao Time="17-07-2019 16:31:11:448">bema1234</codigoDeAtivacao>
+		<dadosVenda Time="17-07-2019 16:31:11:449"><CFe><infCFe versaoDadosEnt="0.07"><ide><CNPJ>18928448000135</CNPJ><signAC>iPIWVwU8eKV0quzZVL9/mdyEAqShWb0PqTpeWQZ1VngykHJLSWISPCYejzpbf2VYt9+eUjkAssj2iPl3l2DIZSoautfTDcY7cgplnE1/kPhgFQBVqoXwJC64ZMe5QoiK9NKSfeMGC0TpKd9IsyBEprm16bvF789ny6MdtRGwI0lNjLUVNrrsemdjLdmehuRBBwl/9cvWwhk3B5yfj9ogp8bUurZ6KPXNhm3x6wL2Zdu4//EiBxk2DJKm0LgtxKQ7Qopf6MacroJYB1u18EbzEdC4DNPI9bGh61WhNvW4MYPqSIQlW8vBv6cPr2Y+Kn3PSs3RCMFiGK/LO3h3L3jnBg==</signAC><numeroCaixa>001</numeroCaixa></ide><emit><CNPJ>17215324000140</CNPJ><IE>145835404116</IE><indRatISSQN>N</indRatISSQN></emit><dest></dest><det nItem="1"><prod><cProd>700</cProd><xProd>BR</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>64.00</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>19.68</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><det nItem="2"><prod><cProd>109</cProd><xProd>GIN IMPORTADO</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>20.00</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>6.15</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><det nItem="3"><prod><cProd>110</cProd><xProd>GIN NACIONAL</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>16.00</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>4.92</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><det nItem="4"><prod><cProd>900</cProd><xProd>GR</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>79.00</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>24.29</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>3.22</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><det nItem="5"><prod><cProd>0000</cProd><xProd>TAXA ENTREGA</xProd><NCM>21069090</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>10.00</vUnCom><indRegra>A</indRegra></prod><imposto><vItem12741>3.08</vItem12741><ICMS><ICMS00><Orig>0</Orig><CST>00</CST><pICMS>0.00</pICMS></ICMS00></ICMS><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto></det><total><vCFeLei12741>3.08</vCFeLei12741></total><pgto><MP><cMP>03</cMP><vMP>100.00</vMP></MP></pgto></infCFe></CFe>
+</dadosVenda>
+		<Return Time="17-07-2019 16:31:12:498">265931|06010|1230|IE do emitente diferente da IE do contribuinte autorizado para uso do SAT||</Return>
+	</EnviarDadosVenda>
+	<readBemaSATFile Time="17-07-2019 16:56:59:512">
+		<NivelLog Time="17-07-2019 16:56:59:513">1</NivelLog>
+		<Path Time="17-07-2019 16:56:59:513">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\Debug\</Path>
+		<BemaSAT_path Time="17-07-2019 16:56:59:514">C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x86\Debug\bemasat.dll</BemaSAT_path>
+		<BemaSAT_version Time="17-07-2019 16:56:59:515">1,0,2,35</BemaSAT_version>
+		<BemaSAT_path_configuracao Time="17-07-2019 16:56:59:515">.\bemasat.xml</BemaSAT_path_configuracao>
+		<LocalizarPorta Time="17-07-2019 16:56:59:516">1</LocalizarPorta>
+		<USB_ID Time="17-07-2019 16:56:59:516">PID:0B1B_VID:0108 Nao Localizado</USB_ID>
+		<USB_ID Time="17-07-2019 16:56:59:517">PID:0525_VID:A4A7 Nao Localizado</USB_ID>
+		<Porta Time="17-07-2019 16:56:59:519">COM5</Porta>
+		<ValidarParametros Time="17-07-2019 16:56:59:519">1</ValidarParametros>
+		<Timeout_Ativacao Time="17-07-2019 16:56:59:520">600000</Timeout_Ativacao>
+		<Timeout_ICP_Brasil Time="17-07-2019 16:56:59:520">480000</Timeout_ICP_Brasil>
+		<Timeout_Consultar_SAT Time="17-07-2019 16:56:59:521">10000</Timeout_Consultar_SAT>
+		<Timeout_Associar_Assinatura Time="17-07-2019 16:56:59:521">20000</Timeout_Associar_Assinatura>
+		<Timeout_Consultar_Sessao Time="17-07-2019 16:56:59:522">30000</Timeout_Consultar_Sessao>
+		<Timeout_Trocar_Codigo_Ativacao Time="17-07-2019 16:56:59:522">20000</Timeout_Trocar_Codigo_Ativacao>
+		<Timeout_Bloquear_SAT Time="17-07-2019 16:56:59:523">300000</Timeout_Bloquear_SAT>
+		<Timeout_Desbloquear_SAT Time="17-07-2019 16:56:59:523">30000</Timeout_Desbloquear_SAT>
+		<Timeout_Extrair_Logs Time="17-07-2019 16:56:59:524">60000</Timeout_Extrair_Logs>
+		<Timeout_Atualizar_SAT Time="17-07-2019 16:56:59:525">1800000</Timeout_Atualizar_SAT>
+		<Timeout_Configurar_Rede Time="17-07-2019 16:56:59:525">30000</Timeout_Configurar_Rede>
+		<Timeout_Enviar_Venda Time="17-07-2019 16:56:59:526">60000</Timeout_Enviar_Venda>
+		<Timeout_Cancelar_Venda Time="17-07-2019 16:56:59:526">20000</Timeout_Cancelar_Venda>
+		<Timeout_Teste_Fim_a_Fim Time="17-07-2019 16:56:59:527">30000</Timeout_Teste_Fim_a_Fim>
+		<Timeout_Consultar_Status Time="17-07-2019 16:56:59:527">15000</Timeout_Consultar_Status>
+		<Timeout_intervalo_status Time="17-07-2019 16:56:59:528">1800000</Timeout_intervalo_status>
+		<resetWait Time="17-07-2019 16:56:59:529">0</resetWait>
+		<ArquivoDados Time="17-07-2019 16:56:59:529">.\bemasat.db</ArquivoDados>
+		<ExtrairLogsPeriodicos Time="17-07-2019 16:56:59:530">0</ExtrairLogsPeriodicos>
+		<Return Time="17-07-2019 16:56:59:530">1</Return>
+	</readBemaSATFile>
+	<ConsultarSAT Time="17-07-2019 16:57:03:639">
+		<numeroSessao Time="17-07-2019 16:57:03:640">567313</numeroSessao>
+		<Return Time="17-07-2019 16:57:04:297">567313|08000|SAT em operação||</Return>
+	</ConsultarSAT>
+	<ConsultarStatusOperacional Time="17-07-2019 16:57:06:335">
+		<numeroSessao Time="17-07-2019 16:57:06:336">417772</numeroSessao>
+		<codigoDeAtivacao Time="17-07-2019 16:57:06:336">iristec1</codigoDeAtivacao>
+		<Return Time="17-07-2019 16:57:06:814">417772|10001|Código de ativação inválido||</Return>
+	</ConsultarStatusOperacional>
+	<ConsultarStatusOperacional Time="17-07-2019 16:57:25:559">
+		<numeroSessao Time="17-07-2019 16:57:25:560">619190</numeroSessao>
+		<codigoDeAtivacao Time="17-07-2019 16:57:25:561">iristec1</codigoDeAtivacao>
+		<Return Time="17-07-2019 16:57:26:642">619190|10001|Código de ativação inválido||</Return>
+	</ConsultarStatusOperacional>
+	<ConsultarStatusOperacional Time="17-07-2019 16:58:12:043">
+		<numeroSessao Time="17-07-2019 16:58:12:044">977707</numeroSessao>
+		<codigoDeAtivacao Time="17-07-2019 16:58:12:045">bema1234</codigoDeAtivacao>
+		<Return Time="17-07-2019 16:58:13:680">977707|10000|Resposta com Sucesso|||900015992|DHCP|192.168.000.012|00:07:25:16:5E:13|255.255.255.000|192.168.000.001|209.244.000.003|209.244.000.002|CONECTADO|ALTO|1870127104|1050189824|20190717165813|!V02.01.00-17|0.07|41190682373077000171599000159920007308101960|00000000000000000000000000000000000000000000|00000000000000000000000000000000000000000000|20190618152030|20190717151055|20180822|20230821|0</Return>
+	</ConsultarStatusOperacional>

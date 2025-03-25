@@ -1,0 +1,1 @@
+563770|06010|1408|Valor total do CFe maior que o somatório dos valores de Meio de Pagamento empregados em seu pagamento||

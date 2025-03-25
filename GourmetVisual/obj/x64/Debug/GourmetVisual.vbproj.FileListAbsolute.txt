@@ -1,0 +1,39 @@
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x64\Debug\Gourmet Visual.exe.config
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x64\Debug\Gourmet Visual.exe.manifest
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x64\Debug\Gourmet Visual.application
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x64\Debug\Gourmet Visual.exe
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x64\Debug\Gourmet Visual.pdb
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\bin\x64\Debug\Gourmet Visual.xml
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\Interop.CFeSatDataSetX.dll
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\Interop.CFeSatX.dll
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.vbproj.ResolveComReference.cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgAbreMesa.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgAbreMovimento.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgAlteraQtde.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgCombo.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgComentarioPrincipal.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgConfigGrupos.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgConta.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgEstorno.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgMensagemBox.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgModuloFiscal_SAT.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgPeloCodigo.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgMensagens.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgSAT.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.fdlgTransferencias.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.Form2.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.frmCaixa.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.frmConfiguracao.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.frmInicio.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.frmPagamento.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.frmSalao.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.frmPrincipal.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.Resources.resources
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.vbproj.GenerateResource.cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\GourmetVisual.vbproj.CoreCompileInputs.cache
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\Gourmet Visual.TrustInfo.xml
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\Gourmet Visual.exe.manifest
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\Gourmet Visual.application
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\Gourmet Visual.exe
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\Gourmet Visual.xml
+C:\IRIS_Gestao\GourmetVisual\GourmetVisual\GourmetVisual\obj\x64\Debug\Gourmet Visual.pdb

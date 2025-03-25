@@ -1,0 +1,21 @@
+RECIBO VENDA SALAO
+==========================================
+Data      :  09/07/2023 13:53:44
+Mesa      :  1
+Venda     :  18
+Atendenter:  MARCELO
+Operador  :  MARCELO
+Servico   :  3,50
+Desconto  :  0,00
+Vlr venda :  38,50
+------------------------------------------
+DINHEIRO                          38,50
+==========================================
+TOTAL RECEBIDO                    38,50
+ 
+ 
+ 
+ 
+ 
+ 
+ 
